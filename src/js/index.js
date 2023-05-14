@@ -6,8 +6,8 @@ buttonAlterTheme.addEventListener("click", () => {
     const darkModeIsActive = body.classList.contains("dark-mode");
     body.classList.toggle("dark-mode")
     if (darkModeIsActive) {
-        imageButtonAlterTheme.setAttribute("src", "./imagens/sun.png")
+        imageButtonAlterTheme.setAttribute("src", "./src/imagens/sun.png")
     }else{
-        imageButtonAlterTheme.setAttribute("src", "./imagens/moon.png")
+        imageButtonAlterTheme.setAttribute("src", "./src/imagens/moon.png")
     }
 });
