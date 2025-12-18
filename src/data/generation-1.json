@@ -1,0 +1,1938 @@
+[
+  {
+    "name": "Bulbasaur",
+    "number": "#001",
+    "image": "./src/imagens/bulbasaur.gif",
+    "types": [
+      "grass",
+      "venom"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Há uma semente de planta em suas costas desde o dia que este Pókemon nasce. A semente cresce lentamente."
+  },
+  {
+    "name": "Ivysaur",
+    "number": "#002",
+    "image": "./src/imagens/ivysaur.gif",
+    "types": [
+      "grass",
+      "venom"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Quando o bulbo em suas costas cresce, parece perder a capacidade de ficar de pé em suas patas traseiras."
+  },
+  {
+    "name": "Venusaur",
+    "number": "#003",
+    "image": "./src/imagens/venusaur.gif",
+    "types": [
+      "grass",
+      "venom"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Sua planta floresce quando está absorvendo energia solar. Ele permanece em movimento para buscar a luz solar."
+  },
+  {
+    "name": "Charmander",
+    "number": "#004",
+    "image": "./src/imagens/charmander.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Tem preferencia por coisas quentes. Quando chove, diz-se que o vapor jorra da ponta da sua cauda."
+  },
+  {
+    "name": "Charmeleon",
+    "number": "#005",
+    "image": "./src/imagens/charmeleon.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Tem uma natureza bárbara. Na batalha, ele chicoteia sua cauda ardente e corta com garras afiadas."
+  },
+  {
+    "name": "Charizard",
+    "number": "#006",
+    "image": "./src/imagens/charizard.gif",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Voador"
+    ],
+    "description": "Ele cospe fogo que é quente o suficiente para derreter pedregulhos. Pode causar incêndios florestais soprando chamas."
+  },
+  {
+    "name": "Squirtle",
+    "number": "#007",
+    "image": "./src/imagens/squirtle.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Quando ele retrai seu longo pescoço em sua concha, ele esguicha água com força vigorosa."
+  },
+  {
+    "name": "Wartortle",
+    "number": "#008",
+    "image": "./src/imagens/wartortle.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "É reconhecido como um símbolo de longevidade. Se sua concha tem algas, esse Wartortle é muito antigo."
+  },
+  {
+    "name": "Blastoise",
+    "number": "#009",
+    "image": "./src/imagens/blastoise.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Ele esmaga seu inimigo sob seu corpo pesado para causar desmaios. Em uma pitada, ele se retirará dentro de sua concha."
+  },
+  {
+    "name": "Caterpie",
+    "number": "#010",
+    "image": "./src/imagens/caterpie.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Para proteção, ele libera um fedor horrível da antena em sua cabeça para afastar os inimigos."
+  },
+  {
+    "name": "Metapod",
+    "number": "#011",
+    "image": "./src/imagens/metapod.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Um casulo que protege seu corpo macio. Ele não pode se mover muito, mas é duro por fora."
+  },
+  {
+    "name": "Butterfree",
+    "number": "#012",
+    "image": "./src/imagens/butterfree.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Em batalha, ele bate suas asas em alta velocidade para liberar poeira altamente tóxica no ar."
+  },
+  {
+    "name": "Weedle",
+    "number": "#013",
+    "image": "./src/imagens/weedle.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "Muito fácil de encontrar em florestas. Ele usa o ferrão venenoso em sua cabeça para se defender."
+  },
+  {
+    "name": "Kakuna",
+    "number": "#014",
+    "image": "./src/imagens/kakuna.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "Um Pokémon Inseto/Veneno do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Beedrill",
+    "number": "#015",
+    "image": "./src/imagens/beedrill.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "Possui três ferrões venenosos nas patas dianteiras e na cauda. Eles são usados para esfaquear repetidamente."
+  },
+  {
+    "name": "Pidgey",
+    "number": "#016",
+    "image": "./src/imagens/pidgey.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Muito dócil. Se atacado, ele frequentemente levanta areia para se proteger em vez de revidar."
+  },
+  {
+    "name": "Pidgeotto",
+    "number": "#017",
+    "image": "./src/imagens/pidgeotto.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Um Pokémon Normal/Voador do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Pidgeot",
+    "number": "#018",
+    "image": "./src/imagens/pidgeot.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Quando caça, ele voa silenciosamente batendo suas asas graciosas. Suas garras são armas perigosas."
+  },
+  {
+    "name": "Rattata",
+    "number": "#019",
+    "image": "./src/imagens/rattata.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Mastiga qualquer coisa com seus incisivos. Se você vir um, pode ter certeza de que mais 40 vivem na área."
+  },
+  {
+    "name": "Raticate",
+    "number": "#020",
+    "image": "./src/imagens/raticate.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Suas patas traseiras são palmadas. Eles atuam como nadadeiras, então podem nadar em rios e caçar presas."
+  },
+  {
+    "name": "Spearow",
+    "number": "#021",
+    "image": "./src/imagens/spearow.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Para proteger seu território, voa ao redor incessantemente e faz barulhos altos."
+  },
+  {
+    "name": "Fearow",
+    "number": "#022",
+    "image": "./src/imagens/fearow.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Um Pokémon Normal/Voador do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Ekans",
+    "number": "#023",
+    "image": "./src/imagens/ekans.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Quanto mais velho fica, mais longo cresce. À noite, ele envolve seu corpo ao redor de galhos de árvores para descansar."
+  },
+  {
+    "name": "Arbok",
+    "number": "#024",
+    "image": "./src/imagens/arbok.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "O padrão aterrorizante em sua barriga foi estudado. Seis variações foram confirmadas."
+  },
+  {
+    "name": "Pikachu",
+    "number": "#025",
+    "image": "./src/imagens/pikachu.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Quando várias dessas criaturas se reúnem, sua eletricidade pode construir e causar raios."
+  },
+  {
+    "name": "Raichu",
+    "number": "#026",
+    "image": "./src/imagens/raichu.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Sua cauda descarrega eletricidade no solo, protegendo-o de ser eletrocutado."
+  },
+  {
+    "name": "Sandshrew",
+    "number": "#027",
+    "image": "./src/imagens/sandshrew.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Prefere lugares secos. Quando ameaçado, ele se enrola em uma bola para proteger sua pele macia."
+  },
+  {
+    "name": "Sandslash",
+    "number": "#028",
+    "image": "./src/imagens/sandslash.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Capaz de rolar como uma bola de espinhos. Ele ataca enquanto se defende."
+  },
+  {
+    "name": "Nidoran♀",
+    "number": "#029",
+    "image": "./src/imagens/nidoran-f.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Embora pequeno, seu ferrão venenoso o torna perigoso. A fêmea tem chifres menores."
+  },
+  {
+    "name": "Nidorina",
+    "number": "#030",
+    "image": "./src/imagens/nidorina.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Um Pokémon do tipo Veneno com habilidades tóxicas."
+  },
+  {
+    "name": "Nidoqueen",
+    "number": "#031",
+    "image": "./src/imagens/nidoqueen.gif",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "typeNames": [
+      "Veneno",
+      "Terra"
+    ],
+    "description": "Sua pele dura proporciona proteção. Ele usa suas garras afiadas para esmagar inimigos."
+  },
+  {
+    "name": "Nidoran♂",
+    "number": "#032",
+    "image": "./src/imagens/nidoran-m.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Embora pequeno, seu ferrão venenoso o torna perigoso. O macho tem chifres maiores."
+  },
+  {
+    "name": "Nidorino",
+    "number": "#033",
+    "image": "./src/imagens/nidorino.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Um Pokémon do tipo Veneno com habilidades tóxicas."
+  },
+  {
+    "name": "Nidoking",
+    "number": "#034",
+    "image": "./src/imagens/nidoking.gif",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "typeNames": [
+      "Veneno",
+      "Terra"
+    ],
+    "description": "Sua cauda poderosa é capaz de quebrar concreto. Sua pele é extremamente dura."
+  },
+  {
+    "name": "Clefairy",
+    "number": "#035",
+    "image": "./src/imagens/clefairy.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Diz-se que a felicidade virá para aqueles que conseguem ver um bando de Clefairy dançando sob a lua cheia."
+  },
+  {
+    "name": "Clefable",
+    "number": "#036",
+    "image": "./src/imagens/clefable.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Vulpix",
+    "number": "#037",
+    "image": "./src/imagens/vulpix.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Enquanto jovem, tem seis caudas lindas. Quando cresce, várias novas caudas brotam."
+  },
+  {
+    "name": "Ninetales",
+    "number": "#038",
+    "image": "./src/imagens/ninetales.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Diz-se que vive mil anos, e cada uma de suas caudas é dotada de poderes sobrenaturais."
+  },
+  {
+    "name": "Jigglypuff",
+    "number": "#039",
+    "image": "./src/imagens/jigglypuff.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Quando seus olhos grandes e redondos piscam, canta uma melodia misteriosa e suave que faz os ouvintes sonolentos."
+  },
+  {
+    "name": "Wigglytuff",
+    "number": "#040",
+    "image": "./src/imagens/wigglytuff.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "O corpo é macio e elástico. Quando inspira profundamente, ele se expande como um balão."
+  },
+  {
+    "name": "Zubat",
+    "number": "#041",
+    "image": "./src/imagens/zubat.gif",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "typeNames": [
+      "Veneno",
+      "Voador"
+    ],
+    "description": "Forma colônias em lugares escuros. Evita a luz porque a exposição ao sol causa queimaduras em seu corpo."
+  },
+  {
+    "name": "Golbat",
+    "number": "#042",
+    "image": "./src/imagens/golbat.gif",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "typeNames": [
+      "Veneno",
+      "Voador"
+    ],
+    "description": "Uma vez que começa a sugar o sangue de uma pessoa, ele não para até que esteja satisfeito."
+  },
+  {
+    "name": "Oddish",
+    "number": "#043",
+    "image": "./src/imagens/oddish.gif",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Durante o dia, ele mantém sua face enterrada no chão. À noite, ele vagueia plantando suas sementes."
+  },
+  {
+    "name": "Gloom",
+    "number": "#044",
+    "image": "./src/imagens/gloom.gif",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "O fluido que escorre de sua boca não é saliva. É um mel que é cheiroso, mas extremamente fedorento."
+  },
+  {
+    "name": "Vileplume",
+    "number": "#045",
+    "image": "./src/imagens/vileplume.gif",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Quanto maior a pétala, mais pólen tóxico ela contém. Sua cabeça grande é pesada e difícil de manter erguida."
+  },
+  {
+    "name": "Paras",
+    "number": "#046",
+    "image": "./src/imagens/paras.gif",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Grama"
+    ],
+    "description": "Cogumelos conhecidos como tochukaso crescem em suas costas. Eles crescem junto com o hospedeiro Paras."
+  },
+  {
+    "name": "Parasect",
+    "number": "#047",
+    "image": "./src/imagens/parasect.gif",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Grama"
+    ],
+    "description": "Um cogumelo grande cresceu em suas costas. Ele controla Parasect. Ele espalha esporos venenosos."
+  },
+  {
+    "name": "Venonat",
+    "number": "#048",
+    "image": "./src/imagens/venonat.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "Vive nas sombras de árvores altas, onde come insetos. É atraído pela luz à noite."
+  },
+  {
+    "name": "Venomoth",
+    "number": "#049",
+    "image": "./src/imagens/venomoth.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "As escamas que cobre suas asas são coloridas para se adaptar ao ambiente de floresta escura."
+  },
+  {
+    "name": "Diglett",
+    "number": "#050",
+    "image": "./src/imagens/diglett.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Vive cerca de um metro abaixo do solo, onde se alimenta de raízes de plantas. Raramente aparece acima do solo."
+  },
+  {
+    "name": "Dugtrio",
+    "number": "#051",
+    "image": "./src/imagens/dugtrio.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Um time de Diglett triplets. Por causa disso, às vezes causa terremotos massivos ao cavar."
+  },
+  {
+    "name": "Meowth",
+    "number": "#052",
+    "image": "./src/imagens/meowth.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Adora objetos brilhantes. Quando avista algo brilhante, a moeda em sua testa brilha também."
+  },
+  {
+    "name": "Persian",
+    "number": "#053",
+    "image": "./src/imagens/persian.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Embora seja orgulhoso e arrogante, é muito leal ao seu treinador."
+  },
+  {
+    "name": "Psyduck",
+    "number": "#054",
+    "image": "./src/imagens/psyduck.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Sempre sofrendo de dores de cabeça, ele usa seus poderes psíquicos apenas ocasionalmente, mas com efeito devastador."
+  },
+  {
+    "name": "Golduck",
+    "number": "#055",
+    "image": "./src/imagens/golduck.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Quando ele nada rapidamente, ele usa os poderes psíquicos que ele mantém em sua testa para reduzir a resistência da água."
+  },
+  {
+    "name": "Mankey",
+    "number": "#056",
+    "image": "./src/imagens/mankey.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Extremamente rápido para ficar com raiva. Ele não descansa até que todos ao redor estejam irritados também."
+  },
+  {
+    "name": "Primeape",
+    "number": "#057",
+    "image": "./src/imagens/primeape.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Sempre furioso e tenaz. Ele não desistirá de perseguir sua presa até que seja capturado."
+  },
+  {
+    "name": "Growlithe",
+    "number": "#058",
+    "image": "./src/imagens/growlithe.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Muito protetor de seu território. Ele late e morde para afastar intrusos de seu espaço."
+  },
+  {
+    "name": "Arcanine",
+    "number": "#059",
+    "image": "./src/imagens/arcanine.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Um Pokémon do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Poliwag",
+    "number": "#060",
+    "image": "./src/imagens/poliwag.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Suas pernas recém-formadas são fracas, então ele se cansa facilmente. Ele prefere nadar do que tentar andar."
+  },
+  {
+    "name": "Poliwhirl",
+    "number": "#061",
+    "image": "./src/imagens/poliwhirl.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Capaz de viver dentro ou fora da água. Quando fora da água, ele transpira para manter seu corpo úmido."
+  },
+  {
+    "name": "Poliwrath",
+    "number": "#062",
+    "image": "./src/imagens/poliwrath.gif",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "typeNames": [
+      "Água",
+      "Lutador"
+    ],
+    "description": "Um nadador habilidoso em estilos de natação livre e peito. Ele facilmente supera os humanos."
+  },
+  {
+    "name": "Abra",
+    "number": "#063",
+    "image": "./src/imagens/abra.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Usa poderes psíquicos enquanto dorme. O conteúdo de seus sonhos afeta os poderes que ele possui."
+  },
+  {
+    "name": "Kadabra",
+    "number": "#064",
+    "image": "./src/imagens/kadabra.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Ele emite ondas alfa especiais de seu corpo que induzem dores de cabeça apenas por estar próximo."
+  },
+  {
+    "name": "Alakazam",
+    "number": "#065",
+    "image": "./src/imagens/alakazam.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Seu cérebro superdesenvolvido está na ponta de sua cauda. Ele usa poderes psíquicos mais poderosos do que um supercomputador."
+  },
+  {
+    "name": "Machop",
+    "number": "#066",
+    "image": "./src/imagens/machop.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Adora treinar. Ele treina todo o corpo todos os dias sem nunca ficar cansado."
+  },
+  {
+    "name": "Machoke",
+    "number": "#067",
+    "image": "./src/imagens/machoke.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Seu corpo musculoso nunca se cansa. Ele ajuda as pessoas fazendo trabalhos pesados."
+  },
+  {
+    "name": "Machamp",
+    "number": "#068",
+    "image": "./src/imagens/machamp.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Usando seus músculos superpoderosos, ele lança punhos devastadores que podem enviar o oponente voando."
+  },
+  {
+    "name": "Bellsprout",
+    "number": "#069",
+    "image": "./src/imagens/bellsprout.gif",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Um Pokémon Grama/Veneno do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Weepinbell",
+    "number": "#070",
+    "image": "./src/imagens/weepinbell.gif",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Espalha um pó venenoso quando ameaçado. Ele usa suas folhas para capturar presas."
+  },
+  {
+    "name": "Victreebel",
+    "number": "#071",
+    "image": "./src/imagens/victreebel.gif",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Diz-se que reside em colônias enormes nas selvas profundas, embora ninguém jamais tenha retornado de lá."
+  },
+  {
+    "name": "Tentacool",
+    "number": "#072",
+    "image": "./src/imagens/tentacool.gif",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "typeNames": [
+      "Água",
+      "Veneno"
+    ],
+    "description": "Flutua na água. Se alguém tocar em seus tentáculos venenosos, será atordoado."
+  },
+  {
+    "name": "Tentacruel",
+    "number": "#073",
+    "image": "./src/imagens/tentacruel.gif",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "typeNames": [
+      "Água",
+      "Veneno"
+    ],
+    "description": "Os tentáculos são normalmente encurtados. Em batalha, eles são estendidos para esfaquear presas com veneno."
+  },
+  {
+    "name": "Geodude",
+    "number": "#074",
+    "image": "./src/imagens/geodude.gif",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Terra"
+    ],
+    "description": "Encontrado em campos e montanhas. Muitas vezes confundido com pedras, as pessoas pisam nele."
+  },
+  {
+    "name": "Graveler",
+    "number": "#075",
+    "image": "./src/imagens/graveler.gif",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Terra"
+    ],
+    "description": "Rola pelas encostas das montanhas. Se seu corpo se quebrar, ele simplesmente cola os pedaços de volta."
+  },
+  {
+    "name": "Golem",
+    "number": "#076",
+    "image": "./src/imagens/golem.gif",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Terra"
+    ],
+    "description": "Seu corpo é duro como pedra. Uma vez por ano, ele derrama sua pele dura para crescer mais."
+  },
+  {
+    "name": "Ponyta",
+    "number": "#077",
+    "image": "./src/imagens/ponyta.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Seus cascos são 10 vezes mais duros que diamantes. Ele pode esmagar qualquer coisa em um instante."
+  },
+  {
+    "name": "Rapidash",
+    "number": "#078",
+    "image": "./src/imagens/rapidash.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Um Pokémon do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Slowpoke",
+    "number": "#079",
+    "image": "./src/imagens/slowpoke.gif",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "typeNames": [
+      "Água",
+      "Psíquico"
+    ],
+    "description": "Incrivelmente lento e entediado. Leva 5 segundos para sentir dor quando atacado."
+  },
+  {
+    "name": "Slowbro",
+    "number": "#080",
+    "image": "./src/imagens/slowbro.gif",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "typeNames": [
+      "Água",
+      "Psíquico"
+    ],
+    "description": "O Shellder preso em sua cauda se alimenta de suas sobras. Isso o torna ainda mais lento."
+  },
+  {
+    "name": "Magnemite",
+    "number": "#081",
+    "image": "./src/imagens/magnemite.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Usa ondas antigravitacionais para ficar suspenso. Aparece sem aviso e usa raios THUNDER WAVE."
+  },
+  {
+    "name": "Magneton",
+    "number": "#082",
+    "image": "./src/imagens/magneton.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Formado por vários Magnemites unidos. Frequentemente aparece quando o sol mancha com manchas solares."
+  },
+  {
+    "name": "Farfetch'd",
+    "number": "#083",
+    "image": "./src/imagens/farfetchd.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "O alho-poró que ele segura é sua arma. Ele o usa como uma espada para cortar e atacar."
+  },
+  {
+    "name": "Doduo",
+    "number": "#084",
+    "image": "./src/imagens/doduo.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Seus cérebros nunca ficam cansados de duas cabeças pensando alternadamente. Isso permite que ele nunca durma."
+  },
+  {
+    "name": "Dodrio",
+    "number": "#085",
+    "image": "./src/imagens/dodrio.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Usa suas três cabeças para avançar em coordenação perfeita. É capaz de correr em terrenos acidentados."
+  },
+  {
+    "name": "Seel",
+    "number": "#086",
+    "image": "./src/imagens/seel.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "O chifre em sua cabeça é muito duro. É usado para quebrar o gelo que bloqueia seu caminho."
+  },
+  {
+    "name": "Dewgong",
+    "number": "#087",
+    "image": "./src/imagens/dewgong.gif",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "typeNames": [
+      "Água",
+      "Gelo"
+    ],
+    "description": "Armazena energia térmica em seu corpo. Nada a uma velocidade constante de 8 nós, mesmo em águas geladas."
+  },
+  {
+    "name": "Grimer",
+    "number": "#088",
+    "image": "./src/imagens/grimer.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Acelerado pela poluição no oceano e nos rios, o corpo de Grimer se tornou mais viscoso ao longo dos anos."
+  },
+  {
+    "name": "Muk",
+    "number": "#089",
+    "image": "./src/imagens/muk.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Tão fedorento que pode causar desmaios. Por meio da degeneração, ele perdeu o sentido do olfato."
+  },
+  {
+    "name": "Shellder",
+    "number": "#090",
+    "image": "./src/imagens/shellder.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Sua concha dura repele qualquer tipo de ataque. É vulnerável apenas quando sua concha está aberta."
+  },
+  {
+    "name": "Cloyster",
+    "number": "#091",
+    "image": "./src/imagens/cloyster.gif",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "typeNames": [
+      "Água",
+      "Gelo"
+    ],
+    "description": "Quando atacado, ele lança seus chifres em rajadas. Dentro de sua concha, o corpo principal é macio e frágil."
+  },
+  {
+    "name": "Gastly",
+    "number": "#092",
+    "image": "./src/imagens/gastly.gif",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "typeNames": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "description": "Um Pokémon Fantasma/Veneno do tipo Fantasma com habilidades misteriosas."
+  },
+  {
+    "name": "Haunter",
+    "number": "#093",
+    "image": "./src/imagens/haunter.gif",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "typeNames": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "description": "Por lamber, ele rouba a vida do alvo. Ele adormece a vítima e então se torna a vítima em seus sonhos."
+  },
+  {
+    "name": "Gengar",
+    "number": "#094",
+    "image": "./src/imagens/gengar.gif",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "typeNames": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "description": "Em uma noite escura, sua sombra é estranhamente projetada. Ele ri da sombra de alguém."
+  },
+  {
+    "name": "Onix",
+    "number": "#095",
+    "image": "./src/imagens/onix.gif",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Terra"
+    ],
+    "description": "Conforme cresce, as partes de pedra de seu corpo se tornam mais duras, assumindo uma cor semelhante a diamante preto."
+  },
+  {
+    "name": "Drowzee",
+    "number": "#096",
+    "image": "./src/imagens/drowzee.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Põe os inimigos para dormir e come seus sonhos. Parece que os sonhos ruins causam indigestão."
+  },
+  {
+    "name": "Hypno",
+    "number": "#097",
+    "image": "./src/imagens/hypno.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Quando ele balança seu pêndulo, ele coloca até mesmo os oponentes mais resistentes em um estado profundo de hipnose."
+  },
+  {
+    "name": "Krabby",
+    "number": "#098",
+    "image": "./src/imagens/krabby.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Suas pinças não são apenas armas poderosas, elas também são usadas para equilíbrio ao caminhar de lado."
+  },
+  {
+    "name": "Kingler",
+    "number": "#099",
+    "image": "./src/imagens/kingler.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "A garra grande tem 10.000 cavalos de potência. No entanto, sendo tão pesada, é difícil de usar."
+  },
+  {
+    "name": "Voltorb",
+    "number": "#100",
+    "image": "./src/imagens/voltorb.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Geralmente encontrado em usinas de energia. Muitas vezes confundido com uma Poké Ball, ele choca as pessoas."
+  },
+  {
+    "name": "Electrode",
+    "number": "#101",
+    "image": "./src/imagens/electrode.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Armazena energia elétrica dentro de seu corpo. Mesmo a menor choque poderia causar uma explosão enorme."
+  },
+  {
+    "name": "Exeggcute",
+    "number": "#102",
+    "image": "./src/imagens/exeggcute.gif",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "typeNames": [
+      "Grama",
+      "Psíquico"
+    ],
+    "description": "Frequentemente confundido com ovos. Quando perturbado, eles se reúnem rapidamente e atacam em enxame."
+  },
+  {
+    "name": "Exeggutor",
+    "number": "#103",
+    "image": "./src/imagens/exeggutor.gif",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "typeNames": [
+      "Grama",
+      "Psíquico"
+    ],
+    "description": "Diz-se que em raras ocasiões, uma de suas cabeças cai e se torna um Exeggcute."
+  },
+  {
+    "name": "Cubone",
+    "number": "#104",
+    "image": "./src/imagens/cubone.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Quando a memória de sua mãe falecida faz com que ele chore, seu crânio treme e emite um som triste."
+  },
+  {
+    "name": "Marowak",
+    "number": "#105",
+    "image": "./src/imagens/marowak.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "O osso que ele segura é uma arma importante. Ele o usa como um bumerangue para derrubar presas."
+  },
+  {
+    "name": "Hitmonlee",
+    "number": "#106",
+    "image": "./src/imagens/hitmonlee.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Quando em perigo, ele chuta com suas pernas elásticas. Mesmo em seu sono, ele continua chutando."
+  },
+  {
+    "name": "Hitmonchan",
+    "number": "#107",
+    "image": "./src/imagens/hitmonchan.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Enquanto parece estar fazendo boxe de sombra, ele está lançando punhos mais rápidos que o olho pode seguir."
+  },
+  {
+    "name": "Lickitung",
+    "number": "#108",
+    "image": "./src/imagens/lickitung.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Sua língua comprida tem mais de 6 pés. Quando ele lambe seu corpo, ele fica limpo."
+  },
+  {
+    "name": "Koffing",
+    "number": "#109",
+    "image": "./src/imagens/koffing.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Porque armazena vários tipos de gases tóxicos em seu corpo, ele é ocasionalmente explodido por acidente."
+  },
+  {
+    "name": "Weezing",
+    "number": "#110",
+    "image": "./src/imagens/weezing.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Onde dois tipos de gases venenosos se encontram, 2 Koffings podem se transformar em um Weezing ao longo de muitos anos."
+  },
+  {
+    "name": "Rhyhorn",
+    "number": "#111",
+    "image": "./src/imagens/rhyhorn.gif",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "typeNames": [
+      "Terra",
+      "Pedra"
+    ],
+    "description": "Sua massa óssea maciça é 1000 vezes mais dura que o aço humano. Seu chifre pode perfurar até diamantes."
+  },
+  {
+    "name": "Rhydon",
+    "number": "#112",
+    "image": "./src/imagens/rhydon.gif",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "typeNames": [
+      "Terra",
+      "Pedra"
+    ],
+    "description": "Protegido por uma armadura que é como pele de pedra, ele é capaz de viver em lava de 3.600 graus."
+  },
+  {
+    "name": "Chansey",
+    "number": "#113",
+    "image": "./src/imagens/chansey.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Tangela",
+    "number": "#114",
+    "image": "./src/imagens/tangela.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "O corpo está coberto por vinhas semelhantes a algas. Elas se movem como membros, tornando difícil distinguir a cabeça."
+  },
+  {
+    "name": "Kangaskhan",
+    "number": "#115",
+    "image": "./src/imagens/kangaskhan.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "O filhote raramente sai da bolsa protetora da mãe até completar 3 anos de idade."
+  },
+  {
+    "name": "Horsea",
+    "number": "#116",
+    "image": "./src/imagens/horsea.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Conhecido por disparar tinta de sua boca. Uma vez que começa a nadar para trás, ele se move rapidamente."
+  },
+  {
+    "name": "Seadra",
+    "number": "#117",
+    "image": "./src/imagens/seadra.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Capaz de nadar para trás rapidamente usando suas barbatanas dorsais e peitorais. Os espinhos são venenosos."
+  },
+  {
+    "name": "Goldeen",
+    "number": "#118",
+    "image": "./src/imagens/goldeen.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Sua cauda flutuante brilha na água. É conhecido como o Rainha das Águas."
+  },
+  {
+    "name": "Seaking",
+    "number": "#119",
+    "image": "./src/imagens/seaking.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "No outono, seu corpo fica mais gordo em preparação para o inverno. Os machos são mais coloridos que as fêmeas."
+  },
+  {
+    "name": "Staryu",
+    "number": "#120",
+    "image": "./src/imagens/staryu.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Starmie",
+    "number": "#121",
+    "image": "./src/imagens/starmie.gif",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "typeNames": [
+      "Água",
+      "Psíquico"
+    ],
+    "description": "O núcleo central brilha com as cores do arco-íris. Diz-se que contém poder místico."
+  },
+  {
+    "name": "Mr. Mime",
+    "number": "#122",
+    "image": "./src/imagens/mr-mime.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Se alguém tentar entrar em sua casa, ele usa suas habilidades de mímica para criar uma parede invisível."
+  },
+  {
+    "name": "Scyther",
+    "number": "#123",
+    "image": "./src/imagens/scyther.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Com ninja-like agilidade e velocidade, ele pode criar ilusões. Há apenas alguns treinadores capazes de capturá-lo."
+  },
+  {
+    "name": "Jynx",
+    "number": "#124",
+    "image": "./src/imagens/jynx.gif",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Psíquico"
+    ],
+    "description": "Ele move seu corpo em um ritmo de dança estranho. Embora algumas pessoas digam que é um ritual, ninguém sabe com certeza."
+  },
+  {
+    "name": "Electabuzz",
+    "number": "#125",
+    "image": "./src/imagens/electabuzz.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Normalmente encontrado perto de usinas de energia. Eles podem ser cortados por raios sem sofrer danos."
+  },
+  {
+    "name": "Magmar",
+    "number": "#126",
+    "image": "./src/imagens/magmar.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Seu corpo sempre queima com uma chama laranja, fazendo com que ele se destaque na escuridão."
+  },
+  {
+    "name": "Pinsir",
+    "number": "#127",
+    "image": "./src/imagens/pinsir.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Se não conseguir esmagar a vítima em suas garras, ele a rasga violentamente com suas pinças poderosas."
+  },
+  {
+    "name": "Tauros",
+    "number": "#128",
+    "image": "./src/imagens/tauros.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Quando está se preparando para atacar, ele chicoteia seu corpo repetidamente com suas três caudas."
+  },
+  {
+    "name": "Magikarp",
+    "number": "#129",
+    "image": "./src/imagens/magikarp.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "No passado distante, era um pouco mais forte do que as criaturas horríveis que você vê hoje."
+  },
+  {
+    "name": "Gyarados",
+    "number": "#130",
+    "image": "./src/imagens/gyarados.gif",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "typeNames": [
+      "Água",
+      "Voador"
+    ],
+    "description": "Raramente visto na natureza. Diz-se que quando Magikarp evolui, seu cérebro celular sofre uma transformação."
+  },
+  {
+    "name": "Lapras",
+    "number": "#131",
+    "image": "./src/imagens/lapras.gif",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "typeNames": [
+      "Água",
+      "Gelo"
+    ],
+    "description": "Um Pokémon Água/Gelo do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Ditto",
+    "number": "#132",
+    "image": "./src/imagens/ditto.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Capaz de copiar o código genético de um oponente para se transformar completamente em uma duplicata."
+  },
+  {
+    "name": "Eevee",
+    "number": "#133",
+    "image": "./src/imagens/eevee.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Seu código genético é irregular. Pode sofrer mutação se exposto a pedras de evolução."
+  },
+  {
+    "name": "Vaporeon",
+    "number": "#134",
+    "image": "./src/imagens/vaporeon.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Vive perto da água. Sua longa cauda é franjada, o que é frequentemente confundido com a cauda de uma sereia."
+  },
+  {
+    "name": "Jolteon",
+    "number": "#135",
+    "image": "./src/imagens/jolteon.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Ele acumula íons negativos na atmosfera para disparar raios de 10.000 volts."
+  },
+  {
+    "name": "Flareon",
+    "number": "#136",
+    "image": "./src/imagens/flareon.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Quando armazena energia térmica suficiente em seu corpo, sua temperatura pode subir para mais de 1.600 graus."
+  },
+  {
+    "name": "Porygon",
+    "number": "#137",
+    "image": "./src/imagens/porygon.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Omanyte",
+    "number": "#138",
+    "image": "./src/imagens/omanyte.gif",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Água"
+    ],
+    "description": "Um Pokémon Pedra/Água do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Omastar",
+    "number": "#139",
+    "image": "./src/imagens/omastar.gif",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Água"
+    ],
+    "description": "Um Pokémon Pedra/Água do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Kabuto",
+    "number": "#140",
+    "image": "./src/imagens/kabuto.gif",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Água"
+    ],
+    "description": "Um Pokémon Pedra/Água do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Kabutops",
+    "number": "#141",
+    "image": "./src/imagens/kabutops.gif",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Água"
+    ],
+    "description": "Sua forma aerodinâmica é perfeita para nadar. Ele corta presas com suas garras e bebe seus fluidos corporais."
+  },
+  {
+    "name": "Aerodactyl",
+    "number": "#142",
+    "image": "./src/imagens/aerodactyl.gif",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Voador"
+    ],
+    "description": "Um Pokémon Pedra/Voador do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Snorlax",
+    "number": "#143",
+    "image": "./src/imagens/snorlax.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Muito dócil. Ele só acorda para comer suas refeições favoritas e depois volta a dormir."
+  },
+  {
+    "name": "Articuno",
+    "number": "#144",
+    "image": "./src/imagens/articuno.gif",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Voador"
+    ],
+    "description": "Um pássaro lendário que diz controlar o gelo. Ele congela a água que contém em seu corpo para fazer suas asas de gelo."
+  },
+  {
+    "name": "Zapdos",
+    "number": "#145",
+    "image": "./src/imagens/zapdos.gif",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "typeNames": [
+      "Elétrico",
+      "Voador"
+    ],
+    "description": "Um pássaro lendário que diz viver em nuvens de tempestade. Ele controla eletricidade livremente."
+  },
+  {
+    "name": "Moltres",
+    "number": "#146",
+    "image": "./src/imagens/moltres.gif",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Voador"
+    ],
+    "description": "Conhecido como o pássaro lendário do fogo. Cada batida de suas asas cria uma chama brilhante."
+  },
+  {
+    "name": "Dratini",
+    "number": "#147",
+    "image": "./src/imagens/dratini.gif",
+    "types": [
+      "dragon"
+    ],
+    "typeNames": [
+      "Dragão"
+    ],
+    "description": "Um Pokémon do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Dragonair",
+    "number": "#148",
+    "image": "./src/imagens/dragonair.gif",
+    "types": [
+      "dragon"
+    ],
+    "typeNames": [
+      "Dragão"
+    ],
+    "description": "Um Pokémon do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Dragonite",
+    "number": "#149",
+    "image": "./src/imagens/dragonite.gif",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "typeNames": [
+      "Dragão",
+      "Voador"
+    ],
+    "description": "Um Pokémon Dragão/Voador do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Mewtwo",
+    "number": "#150",
+    "image": "./src/imagens/mewtwo.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Mew",
+    "number": "#151",
+    "image": "./src/imagens/mew.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  }
+]

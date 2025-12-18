@@ -26,173 +26,141 @@
         </button>
     </header>
     <main>
-        <ul class="list-pokemon">
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Bulbasaur</span>
-                    <span>#001</span>
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="hero-content">
+                <h1 class="hero-title">Pokédex Completa</h1>
+                <p class="hero-subtitle">Explore todos os 1025 pokemons de todas as 9 gerações</p>
+                <div class="hero-stats">
+                    <div class="stat-card">
+                        <span class="stat-number" id="total-pokemons">1025</span>
+                        <span class="stat-label">Pokemons</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number">9</span>
+                        <span class="stat-label">Gerações</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number">18</span>
+                        <span class="stat-label">Tipos</span>
+                    </div>
                 </div>
-
-                <img src="./src/imagens/bulbasaur.gif" alt="bulbasaur" class="gif">
-
-                <ul class="types">
-                    <li class="type grass">Grama</li>
-                    <li class="type venom">Veneno</li>
-                </ul>
-
-                <p class="description">Há uma semente de planta em
-                    suas costas desde o dia que este
-                    Pókemon nasce. A semente
-                    cresce lentamente.
-                </p>
-            </li>
-
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Ivysaur</span>
-                    <span>#002</span>
+                <div class="hero-controls">
+                    <button id="expand-all" class="control-button">Expandir Todas</button>
+                    <button id="collapse-all" class="control-button">Colapsar Todas</button>
                 </div>
+            </div>
+        </section>
 
-                <img src="./src/imagens/ivysaur.gif" alt="ivysaur" class="gif">
-
-                <ul class="types">
-                    <li class="type grass">Grama</li>
-                    <li class="type venom">Veneno</li>
-                </ul>
-
-                <p class="description">Quando o bulbo em suas costas cresce, parece perder a capacidade de ficar de pé
-                    em suas patas traseiras.</p>
-            </li>
-
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Venusaur</span>
-                    <span>#003</span>
+        <!-- Barra de Busca e Filtros -->
+        <section class="search-section">
+            <div class="search-container">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Buscar pokemon por nome ou número..." class="search-input">
+                    <span class="search-icon">🔍</span>
                 </div>
-
-                <img src="./src/imagens/venusaur.gif" alt="venusaur" class="gif">
-
-                <ul class="types">
-                    <li class="type grass">Grama</li>
-                    <li class="type venom">Veneno</li>
-                </ul>
-
-                <p class="description">Sua planta floresce quando está absorvendo energia solar. Ele permanece em
-                    movimento para buscar a luz solar.</p>
-            </li>
-
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Charmander</span>
-                    <span>#004</span>
+                <div class="filter-container">
+                    <select id="type-filter" class="filter-select">
+                        <option value="">Todos os Tipos</option>
+                        <option value="normal">Normal</option>
+                        <option value="fire">Fogo</option>
+                        <option value="water">Água</option>
+                        <option value="electric">Elétrico</option>
+                        <option value="grass">Grama</option>
+                        <option value="ice">Gelo</option>
+                        <option value="fighting">Lutador</option>
+                        <option value="poison">Veneno</option>
+                        <option value="ground">Terra</option>
+                        <option value="flying">Voador</option>
+                        <option value="psychic">Psíquico</option>
+                        <option value="bug">Inseto</option>
+                        <option value="rock">Pedra</option>
+                        <option value="ghost">Fantasma</option>
+                        <option value="dragon">Dragão</option>
+                        <option value="dark">Sombrio</option>
+                        <option value="steel">Aço</option>
+                        <option value="fairy">Fada</option>
+                    </select>
+                    <select id="generation-filter" class="filter-select">
+                        <option value="">Todas as Gerações</option>
+                        <option value="1">Geração I - Kanto</option>
+                        <option value="2">Geração II - Johto</option>
+                        <option value="3">Geração III - Hoenn</option>
+                        <option value="4">Geração IV - Sinnoh</option>
+                        <option value="5">Geração V - Unova</option>
+                        <option value="6">Geração VI - Kalos</option>
+                        <option value="7">Geração VII - Alola</option>
+                        <option value="8">Geração VIII - Galar</option>
+                        <option value="9">Geração IX - Paldea</option>
+                    </select>
+                    <button id="clear-filters" class="clear-button">Limpar Filtros</button>
                 </div>
+                <div id="search-results-count" class="results-count"></div>
+            </div>
+        </section>
 
-                <img src="./src/imagens/charmander.gif" alt="charmander" class="gif">
+        <section class="generation-section" id="generation-1">
+            <h2 class="generation-title">Geração I - Kanto</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons serão carregados dinamicamente via JavaScript -->
+            </ul>
+        </section>
 
-                <ul class="types">
-                    <li class="type fire">Fogo</li>
-                </ul>
+        <section class="generation-section" id="generation-2">
+            <h2 class="generation-title">Geração II - Johto</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração II serão adicionados aqui -->
+            </ul>
+        </section>
 
-                <p class="description">Tem preferencia por coisas quentes. Quando chove, diz-se que o vapor jorra da
-                    ponta da sua cauda.</p>
-            </li>
+        <section class="generation-section" id="generation-3">
+            <h2 class="generation-title">Geração III - Hoenn</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração III serão adicionados aqui -->
+            </ul>
+        </section>
 
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Charmeleon</span>
-                    <span>#005</span>
-                </div>
+        <section class="generation-section" id="generation-4">
+            <h2 class="generation-title">Geração IV - Sinnoh</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração IV serão adicionados aqui -->
+            </ul>
+        </section>
 
-                <img src="./src/imagens/charmeleon.gif" alt="charmeleon" class="gif">
+        <section class="generation-section" id="generation-5">
+            <h2 class="generation-title">Geração V - Unova</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração V serão adicionados aqui -->
+            </ul>
+        </section>
 
-                <ul class="types">
-                    <li class="type fire">Fogo</li>
-                </ul>
+        <section class="generation-section" id="generation-6">
+            <h2 class="generation-title">Geração VI - Kalos</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração VI serão adicionados aqui -->
+            </ul>
+        </section>
 
-                <p class="description">Tem uma natureza bárbara. Na batalha, ele chicoteia sua cauda ardente e corta com
-                    garras afiadas.</p>
-            </li>
+        <section class="generation-section" id="generation-7">
+            <h2 class="generation-title">Geração VII - Alola</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração VII serão adicionados aqui -->
+            </ul>
+        </section>
 
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Charizard</span>
-                    <span>#006</span>
-                </div>
+        <section class="generation-section" id="generation-8">
+            <h2 class="generation-title">Geração VIII - Galar</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração VIII serão adicionados aqui -->
+            </ul>
+        </section>
 
-                <img src="./src/imagens/charizard.gif" alt="charizard" class="gif">
-
-                <ul class="types">
-                    <li class="type fire">Fogo</li>
-                </ul>
-
-                <p class="description">Ele cospe fogo que é quente o suficiente para derreter pedregulhos. Pode causar
-                    incêndios florestais soprando chamas.</p>
-            </li>
-
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Squirtle</span>
-                    <span>#007</span>
-                </div>
-
-                <img src="./src/imagens/squirtle.gif" alt="squirtle" class="gif">
-
-                <ul class="types">
-                    <li class="type water">Água</li>
-                </ul>
-
-                <p class="description">Quando ele retrai seu longo pescoço em sua concha, ele esguicha água com força
-                    vigorosa.</p>
-            </li>
-
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Wartortle</span>
-                    <span>#008</span>
-                </div>
-
-                <img src="./src/imagens/wartortle.gif" alt="wartortle" class="gif">
-
-                <ul class="types">
-                    <li class="type water">Água</li>
-                </ul>
-
-                <p class="description">É reconhecido como um símbolo de longevidade. Se sua concha tem algas, esse
-                    Wartortle é muito antigo.</p>
-            </li>
-
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Blastoise</span>
-                    <span>#009</span>
-                </div>
-
-                <img src="./src/imagens/blastoise.gif" alt="blastoise" class="gif">
-
-                <ul class="types">
-                    <li class="type water">Água</li>
-                </ul>
-
-                <p class="description">Ele esmaga seu inimigo sob seu corpo pesado para causar desmaios. Em uma pitada,
-                    ele se retirará dentro de sua concha.</p>
-            </li>
-
-            <li class="card-pokemon">
-                <div class="informations">
-                    <span>Caterpie</span>
-                    <span>#010</span>
-                </div>
-
-                <img src="./src/imagens/caterpie.gif" alt="caterpie" class="gif">
-
-                <ul class="types">
-                    <li class="type bug">Inseto</li>
-                </ul>
-
-                <p class="description">Para proteção, ele libera um fedor horrível da antena em sua cabeça para afastar
-                    os inimigos.</p>
-            </li>
-        </ul>
+        <section class="generation-section" id="generation-9">
+            <h2 class="generation-title">Geração IX - Paldea</h2>
+            <ul class="list-pokemon">
+                <!-- Pokemons da Geração IX serão adicionados aqui -->
+            </ul>
+        </section>
     </main>
 
     <script src="./src/js/index.js"></script>

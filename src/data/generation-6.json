@@ -1,0 +1,948 @@
+[
+  {
+    "name": "Chespin",
+    "number": "#650",
+    "image": "./src/imagens/chespin.png",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Quilladin",
+    "number": "#651",
+    "image": "./src/imagens/quilladin.png",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Chesnaught",
+    "number": "#652",
+    "image": "./src/imagens/chesnaught.png",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "typeNames": [
+      "Grama",
+      "Lutador"
+    ],
+    "description": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body."
+  },
+  {
+    "name": "Fennekin",
+    "number": "#653",
+    "image": "./src/imagens/fennekin.png",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit."
+  },
+  {
+    "name": "Braixen",
+    "number": "#654",
+    "image": "./src/imagens/braixen.png",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Um Pokémon do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Delphox",
+    "number": "#655",
+    "image": "./src/imagens/delphox.png",
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Fogo/Psíquico do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Froakie",
+    "number": "#656",
+    "image": "./src/imagens/froakie.png",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "It secretes flexible bubbles de seu chest and back. o bubbles reduce o damage ele would otherwise take quando attacked."
+  },
+  {
+    "name": "Frogadier",
+    "number": "#657",
+    "image": "./src/imagens/frogadier.png",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away."
+  },
+  {
+    "name": "Greninja",
+    "number": "#658",
+    "image": "./src/imagens/greninja.png",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "typeNames": [
+      "Água",
+      "Sombrio"
+    ],
+    "description": "It creates throwing stars out of compressed water. quando ele spins them and throws them at high speed, these stars pode split metal in two."
+  },
+  {
+    "name": "Bunnelby",
+    "number": "#659",
+    "image": "./src/imagens/bunnelby.png",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "They use their large ears to dig burrows. They will dig the whole night through."
+  },
+  {
+    "name": "Diggersby",
+    "number": "#660",
+    "image": "./src/imagens/diggersby.png",
+    "types": [
+      "normal",
+      "ground"
+    ],
+    "typeNames": [
+      "Normal",
+      "Terra"
+    ],
+    "description": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites."
+  },
+  {
+    "name": "Fletchling",
+    "number": "#661",
+    "image": "./src/imagens/fletchling.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Um Pokémon Normal/Voador do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Fletchinder",
+    "number": "#662",
+    "image": "./src/imagens/fletchinder.png",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Voador"
+    ],
+    "description": "Um Pokémon Fogo/Voador do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Talonflame",
+    "number": "#663",
+    "image": "./src/imagens/talonflame.png",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Voador"
+    ],
+    "description": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air."
+  },
+  {
+    "name": "Scatterbug",
+    "number": "#664",
+    "image": "./src/imagens/scatterbug.png",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Um Pokémon do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Spewpa",
+    "number": "#665",
+    "image": "./src/imagens/spewpa.png",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Um Pokémon do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Vivillon",
+    "number": "#666",
+    "image": "./src/imagens/vivillon.png",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Um Pokémon Inseto/Voador do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Litleo",
+    "number": "#667",
+    "image": "./src/imagens/litleo.png",
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Normal"
+    ],
+    "description": "O stronger o opponent ele faces, o more heat surges de seu mane and o more power flows through seu body."
+  },
+  {
+    "name": "Pyroar",
+    "number": "#668",
+    "image": "./src/imagens/pyroar.png",
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Normal"
+    ],
+    "description": "Um Pokémon Fogo/Normal do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Flabebe",
+    "number": "#669",
+    "image": "./src/imagens/flabebe.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body."
+  },
+  {
+    "name": "Floette",
+    "number": "#670",
+    "image": "./src/imagens/floette.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Um Pokémon do tipo Fada com poderes mágicos."
+  },
+  {
+    "name": "Florges",
+    "number": "#671",
+    "image": "./src/imagens/florges.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Um Pokémon do tipo Fada com poderes mágicos."
+  },
+  {
+    "name": "Skiddo",
+    "number": "#672",
+    "image": "./src/imagens/skiddo.png",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Gogoat",
+    "number": "#673",
+    "image": "./src/imagens/gogoat.png",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Pancham",
+    "number": "#674",
+    "image": "./src/imagens/pancham.png",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark."
+  },
+  {
+    "name": "Pangoro",
+    "number": "#675",
+    "image": "./src/imagens/pangoro.png",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "typeNames": [
+      "Lutador",
+      "Sombrio"
+    ],
+    "description": "Although it possesses a violent temperament, it won’t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies."
+  },
+  {
+    "name": "Furfrou",
+    "number": "#676",
+    "image": "./src/imagens/furfrou.png",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements."
+  },
+  {
+    "name": "Espurr",
+    "number": "#677",
+    "image": "./src/imagens/espurr.png",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Meowstic Male",
+    "number": "#678",
+    "image": "./src/imagens/meowstic male.png",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust."
+  },
+  {
+    "name": "Honedge",
+    "number": "#679",
+    "image": "./src/imagens/honedge.png",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "typeNames": [
+      "Aço",
+      "Fantasma"
+    ],
+    "description": "Um Pokémon Aço/Fantasma do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Doublade",
+    "number": "#680",
+    "image": "./src/imagens/doublade.png",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "typeNames": [
+      "Aço",
+      "Fantasma"
+    ],
+    "description": "Um Pokémon Aço/Fantasma do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Aegislash Shield",
+    "number": "#681",
+    "image": "./src/imagens/aegislash shield.png",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "typeNames": [
+      "Aço",
+      "Fantasma"
+    ],
+    "description": "Um Pokémon Aço/Fantasma do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Spritzee",
+    "number": "#682",
+    "image": "./src/imagens/spritzee.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Um Pokémon do tipo Fada com poderes mágicos."
+  },
+  {
+    "name": "Aromatisse",
+    "number": "#683",
+    "image": "./src/imagens/aromatisse.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Um Pokémon do tipo Fada com poderes mágicos."
+  },
+  {
+    "name": "Swirlix",
+    "number": "#684",
+    "image": "./src/imagens/swirlix.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy."
+  },
+  {
+    "name": "Slurpuff",
+    "number": "#685",
+    "image": "./src/imagens/slurpuff.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work."
+  },
+  {
+    "name": "Inkay",
+    "number": "#686",
+    "image": "./src/imagens/inkay.png",
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Psíquico"
+    ],
+    "description": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight."
+  },
+  {
+    "name": "Malamar",
+    "number": "#687",
+    "image": "./src/imagens/malamar.png",
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Sombrio/Psíquico do tipo Sombrio com habilidades ocultas."
+  },
+  {
+    "name": "Binacle",
+    "number": "#688",
+    "image": "./src/imagens/binacle.png",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Água"
+    ],
+    "description": "Um Pokémon Pedra/Água do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Barbaracle",
+    "number": "#689",
+    "image": "./src/imagens/barbaracle.png",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Água"
+    ],
+    "description": "Um Pokémon Pedra/Água do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Skrelp",
+    "number": "#690",
+    "image": "./src/imagens/skrelp.png",
+    "types": [
+      "poison",
+      "water"
+    ],
+    "typeNames": [
+      "Veneno",
+      "Água"
+    ],
+    "description": "Camouflaged as rotten kelp, they spray liquid veneno on prey aquele approaches unawares and then finish ele off."
+  },
+  {
+    "name": "Dragalge",
+    "number": "#691",
+    "image": "./src/imagens/dragalge.png",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "typeNames": [
+      "Veneno",
+      "Dragão"
+    ],
+    "description": "Um Pokémon Veneno/Dragão do tipo Veneno com habilidades tóxicas."
+  },
+  {
+    "name": "Clauncher",
+    "number": "#692",
+    "image": "./src/imagens/clauncher.png",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol."
+  },
+  {
+    "name": "Clawitzer",
+    "number": "#693",
+    "image": "./src/imagens/clawitzer.png",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls."
+  },
+  {
+    "name": "Helioptile",
+    "number": "#694",
+    "image": "./src/imagens/helioptile.png",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "typeNames": [
+      "Elétrico",
+      "Normal"
+    ],
+    "description": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement."
+  },
+  {
+    "name": "Heliolisk",
+    "number": "#695",
+    "image": "./src/imagens/heliolisk.png",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "typeNames": [
+      "Elétrico",
+      "Normal"
+    ],
+    "description": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper."
+  },
+  {
+    "name": "Tyrunt",
+    "number": "#696",
+    "image": "./src/imagens/tyrunt.png",
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Dragão"
+    ],
+    "description": "Um Pokémon Pedra/Dragão do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Tyrantrum",
+    "number": "#697",
+    "image": "./src/imagens/tyrantrum.png",
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Dragão"
+    ],
+    "description": "Um Pokémon Pedra/Dragão do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Amaura",
+    "number": "#698",
+    "image": "./src/imagens/amaura.png",
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Gelo"
+    ],
+    "description": "Um Pokémon Pedra/Gelo do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Aurorus",
+    "number": "#699",
+    "image": "./src/imagens/aurorus.png",
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Gelo"
+    ],
+    "description": "O diamond-shaped crystals on seu corpo expel air as cold as -240 degrees Fahrenheit, surrounding seu enemies and encasing them in ice."
+  },
+  {
+    "name": "Sylveon",
+    "number": "#700",
+    "image": "./src/imagens/sylveon.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "It sends a soothing aura from its ribbonlike feelers to calm fights."
+  },
+  {
+    "name": "Hawlucha",
+    "number": "#701",
+    "image": "./src/imagens/hawlucha.png",
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "typeNames": [
+      "Lutador",
+      "Voador"
+    ],
+    "description": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama."
+  },
+  {
+    "name": "Dedenne",
+    "number": "#702",
+    "image": "./src/imagens/dedenne.png",
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "typeNames": [
+      "Elétrico",
+      "Fada"
+    ],
+    "description": "Its whiskers serve as antennas. por sending and receiving electrical waves, ele pode communicate with others over vast distances."
+  },
+  {
+    "name": "Carbink",
+    "number": "#703",
+    "image": "./src/imagens/carbink.png",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Fada"
+    ],
+    "description": "Um Pokémon Pedra/Fada do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Goomy",
+    "number": "#704",
+    "image": "./src/imagens/goomy.png",
+    "types": [
+      "dragon"
+    ],
+    "typeNames": [
+      "Dragão"
+    ],
+    "description": "Um Pokémon do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Sliggoo",
+    "number": "#705",
+    "image": "./src/imagens/sliggoo.png",
+    "types": [
+      "dragon"
+    ],
+    "typeNames": [
+      "Dragão"
+    ],
+    "description": "Um Pokémon do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Goodra",
+    "number": "#706",
+    "image": "./src/imagens/goodra.png",
+    "types": [
+      "dragon"
+    ],
+    "typeNames": [
+      "Dragão"
+    ],
+    "description": "Um Pokémon do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Klefki",
+    "number": "#707",
+    "image": "./src/imagens/klefki.png",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "typeNames": [
+      "Aço",
+      "Fada"
+    ],
+    "description": "Um Pokémon do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Phantump",
+    "number": "#708",
+    "image": "./src/imagens/phantump.png",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "typeNames": [
+      "Fantasma",
+      "Grama"
+    ],
+    "description": "Um Pokémon Fantasma/Grama do tipo Fantasma com habilidades misteriosas."
+  },
+  {
+    "name": "Trevenant",
+    "number": "#709",
+    "image": "./src/imagens/trevenant.png",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "typeNames": [
+      "Fantasma",
+      "Grama"
+    ],
+    "description": "It can control trees at will. It will trap people who harm the forest, so they can never leave."
+  },
+  {
+    "name": "Pumpkaboo Average",
+    "number": "#710",
+    "image": "./src/imagens/pumpkaboo average.png",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "typeNames": [
+      "Fantasma",
+      "Grama"
+    ],
+    "description": "Um Pokémon Fantasma/Grama do tipo Fantasma com habilidades misteriosas."
+  },
+  {
+    "name": "Gourgeist Average",
+    "number": "#711",
+    "image": "./src/imagens/gourgeist average.png",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "typeNames": [
+      "Fantasma",
+      "Grama"
+    ],
+    "description": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed."
+  },
+  {
+    "name": "Bergmite",
+    "number": "#712",
+    "image": "./src/imagens/bergmite.png",
+    "types": [
+      "ice"
+    ],
+    "typeNames": [
+      "Gelo"
+    ],
+    "description": "Um Pokémon do tipo Gelo que controla o poder do gelo."
+  },
+  {
+    "name": "Avalugg",
+    "number": "#713",
+    "image": "./src/imagens/avalugg.png",
+    "types": [
+      "ice"
+    ],
+    "typeNames": [
+      "Gelo"
+    ],
+    "description": "Its ice-covered corpo é as hard as steel. seu cumbersome frame crushes anything aquele stands in seu way."
+  },
+  {
+    "name": "Noibat",
+    "number": "#714",
+    "image": "./src/imagens/noibat.png",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "typeNames": [
+      "Voador",
+      "Dragão"
+    ],
+    "description": "Um Pokémon Voador/Dragão do tipo Voador que domina os céus."
+  },
+  {
+    "name": "Noivern",
+    "number": "#715",
+    "image": "./src/imagens/noivern.png",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "typeNames": [
+      "Voador",
+      "Dragão"
+    ],
+    "description": "Um Pokémon Voador/Dragão do tipo Voador que domina os céus."
+  },
+  {
+    "name": "Xerneas",
+    "number": "#716",
+    "image": "./src/imagens/xerneas.png",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival."
+  },
+  {
+    "name": "Yveltal",
+    "number": "#717",
+    "image": "./src/imagens/yveltal.png",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Voador"
+    ],
+    "description": "Um Pokémon Sombrio/Voador do tipo Sombrio com habilidades ocultas."
+  },
+  {
+    "name": "Zygarde 50",
+    "number": "#718",
+    "image": "./src/imagens/zygarde 50.png",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "typeNames": [
+      "Dragão",
+      "Terra"
+    ],
+    "description": "When the Kalos region’s ecosystem falls into disarray, it appears and reveals its secret power."
+  },
+  {
+    "name": "Diancie",
+    "number": "#719",
+    "image": "./src/imagens/diancie.png",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Fada"
+    ],
+    "description": "Um Pokémon Pedra/Fada do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Hoopa",
+    "number": "#720",
+    "image": "./src/imagens/hoopa.png",
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Fantasma"
+    ],
+    "description": "Um Pokémon Psíquico/Fantasma do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Volcanion",
+    "number": "#721",
+    "image": "./src/imagens/volcanion.png",
+    "types": [
+      "fire",
+      "water"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Água"
+    ],
+    "description": "Um Pokémon Fogo/Água do tipo Fogo com características únicas e poderosas."
+  }
+]

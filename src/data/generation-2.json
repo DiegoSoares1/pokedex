@@ -1,0 +1,1300 @@
+[
+  {
+    "name": "Chikorita",
+    "number": "#152",
+    "image": "./src/imagens/chikorita.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um aroma doce flutua suavemente da folha em sua cabeça. É dócil e adora absorver os raios do sol."
+  },
+  {
+    "name": "Bayleef",
+    "number": "#153",
+    "image": "./src/imagens/bayleef.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "O cheiro de especiarias vem do pescoço. De alguma forma, cheirar faz você querer lutar."
+  },
+  {
+    "name": "Meganium",
+    "number": "#154",
+    "image": "./src/imagens/meganium.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "O aroma que nasce de suas pétalas contém uma substância que acalma sentimentos agressivos."
+  },
+  {
+    "name": "Cyndaquil",
+    "number": "#155",
+    "image": "./src/imagens/cyndaquil.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Tem uma natureza tímida. Se for assustado, as chamas em suas costas queimam mais vigorosamente."
+  },
+  {
+    "name": "Quilava",
+    "number": "#156",
+    "image": "./src/imagens/quilava.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Tenha cuidado se ele virar as costas durante a batalha. Isso significa que ele atacará com o fogo nas costas."
+  },
+  {
+    "name": "Typhlosion",
+    "number": "#157",
+    "image": "./src/imagens/typhlosion.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Se sua raiva atingir o pico, ela se torna tão quente que qualquer coisa que a toque instantaneamente pegará fogo."
+  },
+  {
+    "name": "Totodile",
+    "number": "#158",
+    "image": "./src/imagens/totodile.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Suas mandíbulas bem desenvolvidas são poderosas e capazes de esmagar qualquer coisa. Até mesmo seu treinador deve ter cuidado."
+  },
+  {
+    "name": "Croconaw",
+    "number": "#159",
+    "image": "./src/imagens/croconaw.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Se perder uma presa, uma nova cresce em seu lugar. Há sempre 48 presas forrando sua boca."
+  },
+  {
+    "name": "Feraligatr",
+    "number": "#160",
+    "image": "./src/imagens/feraligatr.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Quando morde com suas mandíbulas maciças e poderosas, balança a cabeça e rasga selvagemente sua vítima."
+  },
+  {
+    "name": "Sentret",
+    "number": "#161",
+    "image": "./src/imagens/sentret.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Furret",
+    "number": "#162",
+    "image": "./src/imagens/furret.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Hoothoot",
+    "number": "#163",
+    "image": "./src/imagens/hoothoot.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Ele sempre fica em um pé só. Ele muda os pés tão rápido que o movimento raramente pode ser visto."
+  },
+  {
+    "name": "Noctowl",
+    "number": "#164",
+    "image": "./src/imagens/noctowl.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Seus olhos são especialmente adaptados. Eles concentram até mesmo uma luz fraca e permitem que ele veja no escuro."
+  },
+  {
+    "name": "Ledyba",
+    "number": "#165",
+    "image": "./src/imagens/ledyba.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "É muito tímido. Ele terá medo de se mover se estiver sozinho. Mas estará ativo se estiver em grupo."
+  },
+  {
+    "name": "Ledian",
+    "number": "#166",
+    "image": "./src/imagens/ledian.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Quando as estrelas cintilam no céu noturno, ele vibra, espalhando um pó brilhante."
+  },
+  {
+    "name": "Spinarak",
+    "number": "#167",
+    "image": "./src/imagens/spinarak.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "Ele ainda permanece na mesma pose por dias em sua teia, esperando que sua presa desavisada se aproxime."
+  },
+  {
+    "name": "Ariados",
+    "number": "#168",
+    "image": "./src/imagens/ariados.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "Ele gira a corda não apenas por trás, mas também pela boca. É difícil dizer qual extremidade é qual."
+  },
+  {
+    "name": "Crobat",
+    "number": "#169",
+    "image": "./src/imagens/crobat.gif",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "typeNames": [
+      "Veneno",
+      "Voador"
+    ],
+    "description": "Ele voa tão silenciosamente através da escuridão em suas quatro asas que pode não ser notado mesmo quando está por perto."
+  },
+  {
+    "name": "Chinchou",
+    "number": "#170",
+    "image": "./src/imagens/chinchou.gif",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "typeNames": [
+      "Água",
+      "Elétrico"
+    ],
+    "description": "Um Pokémon Água/Elétrico do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Lanturn",
+    "number": "#171",
+    "image": "./src/imagens/lanturn.gif",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "typeNames": [
+      "Água",
+      "Elétrico"
+    ],
+    "description": "A luz que emite é tão brilhante que pode iluminar a superfície do mar a uma profundidade de mais de cinco quilômetros."
+  },
+  {
+    "name": "Pichu",
+    "number": "#172",
+    "image": "./src/imagens/pichu.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Ainda não é hábil em armazenar eletricidade. Pode causar um choque se for divertido ou assustado."
+  },
+  {
+    "name": "Cleffa",
+    "number": "#173",
+    "image": "./src/imagens/cleffa.gif",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Por causa de sua silhueta incomum, semelhante a uma estrela, as pessoas acreditam que ele veio aqui em um meteoro."
+  },
+  {
+    "name": "Igglybuff",
+    "number": "#174",
+    "image": "./src/imagens/igglybuff.gif",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "typeNames": [
+      "Normal",
+      "Fada"
+    ],
+    "description": "Tem um corpo muito macio. Se começar a rolar, saltará por toda parte e será impossível parar."
+  },
+  {
+    "name": "Togepi",
+    "number": "#175",
+    "image": "./src/imagens/togepi.gif",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "A concha parece estar cheia de alegria. Dizem que ele compartilhará boa sorte quando tratado com gentileza."
+  },
+  {
+    "name": "Togetic",
+    "number": "#176",
+    "image": "./src/imagens/togetic.gif",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "typeNames": [
+      "Fada",
+      "Voador"
+    ],
+    "description": "Um Pokémon do tipo Fada com poderes mágicos."
+  },
+  {
+    "name": "Natu",
+    "number": "#177",
+    "image": "./src/imagens/natu.gif",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Voador"
+    ],
+    "description": "Como suas asas ainda não estão totalmente crescidas, ele precisa pular para se locomover. Está sempre olhando para alguma coisa."
+  },
+  {
+    "name": "Xatu",
+    "number": "#178",
+    "image": "./src/imagens/xatu.gif",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Voador"
+    ],
+    "description": "Dizem que fica parado e quieto porque está vendo o passado e o futuro ao mesmo tempo."
+  },
+  {
+    "name": "Mareep",
+    "number": "#179",
+    "image": "./src/imagens/mareep.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Se a eletricidade estática se acumula em seu corpo, sua lã dobra de volume. Tocá-lo vai te chocar."
+  },
+  {
+    "name": "Flaaffy",
+    "number": "#180",
+    "image": "./src/imagens/flaaffy.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Como resultado do armazenamento de muita eletricidade, desenvolveu manchas onde até mesmo a lã felpuda não cresce."
+  },
+  {
+    "name": "Ampharos",
+    "number": "#181",
+    "image": "./src/imagens/ampharos.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "A ponta da cauda brilha intensamente e pode ser vista de longe. Atua como um farol para pessoas perdidas."
+  },
+  {
+    "name": "Bellossom",
+    "number": "#182",
+    "image": "./src/imagens/bellossom.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Abundante nos trópicos. Quando dança, suas pétalas se esfregam e fazem um som agradável."
+  },
+  {
+    "name": "Marill",
+    "number": "#183",
+    "image": "./src/imagens/marill.gif",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "typeNames": [
+      "Água",
+      "Fada"
+    ],
+    "description": "A ponta de sua cauda, que contém óleo mais leve que a água, permite que ela nade sem se afogar."
+  },
+  {
+    "name": "Azumarill",
+    "number": "#184",
+    "image": "./src/imagens/azumarill.gif",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "typeNames": [
+      "Água",
+      "Fada"
+    ],
+    "description": "Ele vive na água praticamente o dia todo. Sua cor e padrão corporal atuam como camuflagem que torna difícil para os inimigos avistarem na água."
+  },
+  {
+    "name": "Sudowoodo",
+    "number": "#185",
+    "image": "./src/imagens/sudowoodo.gif",
+    "types": [
+      "rock"
+    ],
+    "typeNames": [
+      "Pedra"
+    ],
+    "description": "Embora sempre finja ser uma árvore, sua composição parece estar mais próxima de uma rocha do que de uma planta."
+  },
+  {
+    "name": "Politoed",
+    "number": "#186",
+    "image": "./src/imagens/politoed.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Se POLIWAG e POLIWHIRL ouvirem seu grito ecoante, eles respondem reunindo-se de longe."
+  },
+  {
+    "name": "Hoppip",
+    "number": "#187",
+    "image": "./src/imagens/hoppip.gif",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "typeNames": [
+      "Grama",
+      "Voador"
+    ],
+    "description": "Para não serem levados pelo vento, eles se reúnem em grupos. No entanto, eles gostam de brisas suaves."
+  },
+  {
+    "name": "Skiploom",
+    "number": "#188",
+    "image": "./src/imagens/skiploom.gif",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "typeNames": [
+      "Grama",
+      "Voador"
+    ],
+    "description": "A flor no topo de sua cabeça abre e fecha à medida que a temperatura flutua para cima e para baixo."
+  },
+  {
+    "name": "Jumpluff",
+    "number": "#189",
+    "image": "./src/imagens/jumpluff.gif",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "typeNames": [
+      "Grama",
+      "Voador"
+    ],
+    "description": "Uma vez que pega o vento, ele habilmente controla seus esporos de algodão para flutuar, mesmo ao redor do mundo."
+  },
+  {
+    "name": "Aipom",
+    "number": "#190",
+    "image": "./src/imagens/aipom.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Sua cauda é tão poderosa que pode usá-la para agarrar um galho de árvore e se erguer no ar."
+  },
+  {
+    "name": "Sunkern",
+    "number": "#191",
+    "image": "./src/imagens/sunkern.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Pode cair do céu de repente. Se atacado por um SPEAROW, ele sacudirá violentamente suas folhas."
+  },
+  {
+    "name": "Sunflora",
+    "number": "#192",
+    "image": "./src/imagens/sunflora.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Converte a luz solar em energia. Na escuridão após o pôr do sol, ele fecha suas pétalas e fica imóvel."
+  },
+  {
+    "name": "Yanma",
+    "number": "#193",
+    "image": "./src/imagens/yanma.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Se bater as asas muito rápido, pode gerar ondas de choque que quebrarão vitórias na área."
+  },
+  {
+    "name": "Wooper",
+    "number": "#194",
+    "image": "./src/imagens/wooper.gif",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "typeNames": [
+      "Água",
+      "Terra"
+    ],
+    "description": "Um Pokémon Água/Terra do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Quagsire",
+    "number": "#195",
+    "image": "./src/imagens/quagsire.gif",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "typeNames": [
+      "Água",
+      "Terra"
+    ],
+    "description": "Um Pokémon Água/Terra do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Espeon",
+    "number": "#196",
+    "image": "./src/imagens/espeon.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Ele usa o cabelo fino que cobre seu corpo para sentir as correntes de ar e prever as ações de seu corpo."
+  },
+  {
+    "name": "Umbreon",
+    "number": "#197",
+    "image": "./src/imagens/umbreon.gif",
+    "types": [
+      "dark"
+    ],
+    "typeNames": [
+      "Sombrio"
+    ],
+    "description": "Um Pokémon do tipo Sombrio com habilidades ocultas."
+  },
+  {
+    "name": "Murkrow",
+    "number": "#198",
+    "image": "./src/imagens/murkrow.gif",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Voador"
+    ],
+    "description": "Temido e detestado por muitos, acredita-se que traga infortúnio a todos aqueles que o vêem à noite."
+  },
+  {
+    "name": "Slowking",
+    "number": "#199",
+    "image": "./src/imagens/slowking.gif",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "typeNames": [
+      "Água",
+      "Psíquico"
+    ],
+    "description": "Tem um intelecto e instrução incríveis. Seja qual for a situação, ela permanece calma e controlada."
+  },
+  {
+    "name": "Misdreavus",
+    "number": "#200",
+    "image": "./src/imagens/misdreavus.gif",
+    "types": [
+      "ghost"
+    ],
+    "typeNames": [
+      "Fantasma"
+    ],
+    "description": "Gosta de pregar peças maliciosas, como gritar e lamentar para assustar as pessoas à noite."
+  },
+  {
+    "name": "Unown",
+    "number": "#201",
+    "image": "./src/imagens/unown.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Suas formas parecem hieróglifos em tablaturas antigas. Diz-se que os dois estão de alguma forma relacionados."
+  },
+  {
+    "name": "Wobbuffet",
+    "number": "#202",
+    "image": "./src/imagens/wobbuffet.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Odeia luz e choque. Se atacado, ele infla seu corpo para bombear seu contra-ataque."
+  },
+  {
+    "name": "Girafarig",
+    "number": "#203",
+    "image": "./src/imagens/girafarig.gif",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "typeNames": [
+      "Normal",
+      "Psíquico"
+    ],
+    "description": "Sua cauda tem um pequeno cérebro próprio. Cuidado! Se você se aproximar, ele pode reagir ao seu cheiro e mordida."
+  },
+  {
+    "name": "Pineco",
+    "number": "#204",
+    "image": "./src/imagens/pineco.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Ele gosta de tornar sua casca mais espessa adicionando camadas de casca de árvore. O peso adicional não incomoda."
+  },
+  {
+    "name": "Forretress",
+    "number": "#205",
+    "image": "./src/imagens/forretress.gif",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Aço"
+    ],
+    "description": "Todo o seu corpo é protegido por uma concha dura como aço. O que se esconde dentro da armadura é um mistério total."
+  },
+  {
+    "name": "Dunsparce",
+    "number": "#206",
+    "image": "./src/imagens/dunsparce.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Gligar",
+    "number": "#207",
+    "image": "./src/imagens/gligar.gif",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "typeNames": [
+      "Terra",
+      "Voador"
+    ],
+    "description": "Ele voa direto para o rosto do alvo e, em seguida, aperta a vítima estrelada para injetar veneno."
+  },
+  {
+    "name": "Steelix",
+    "number": "#208",
+    "image": "./src/imagens/steelix.gif",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "typeNames": [
+      "Aço",
+      "Terra"
+    ],
+    "description": "Acredita-se que seu corpo se transformou como resultado do acúmulo interno de ferro ao engolir o solo."
+  },
+  {
+    "name": "Snubbull",
+    "number": "#209",
+    "image": "./src/imagens/snubbull.gif",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Embora pareça assustador, na verdade é gentil e afetuoso. É muito popular entre as mulheres."
+  },
+  {
+    "name": "Granbull",
+    "number": "#210",
+    "image": "./src/imagens/granbull.gif",
+    "types": [
+      "fairy"
+    ],
+    "typeNames": [
+      "Fada"
+    ],
+    "description": "Na verdade, é tímido e facilmente assustável. Se for atacada, ela está prestes a afastar seu atacante."
+  },
+  {
+    "name": "Qwilfish",
+    "number": "#211",
+    "image": "./src/imagens/qwilfish.gif",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "typeNames": [
+      "Água",
+      "Veneno"
+    ],
+    "description": "Para disparar seus picos de veneno, ele deve inflar seu corpo bebendo mais de 2,6 galões de água de uma só vez."
+  },
+  {
+    "name": "Scizor",
+    "number": "#212",
+    "image": "./src/imagens/scizor.gif",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Aço"
+    ],
+    "description": "Tem um corpo duro como aço. Intimida os inimigos erguendo suas pinças estampadas nos olhos."
+  },
+  {
+    "name": "Shuckle",
+    "number": "#213",
+    "image": "./src/imagens/shuckle.gif",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Pedra"
+    ],
+    "description": "As BAGAS que armazena em sua casca semelhante a um vaso se decompõem e se tornam um líquido pegajoso."
+  },
+  {
+    "name": "Heracross",
+    "number": "#214",
+    "image": "./src/imagens/heracross.gif",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Lutador"
+    ],
+    "description": "Geralmente é dócil, mas se for perturbado enquanto bebe mel, afugenta o intruso com seu chifre."
+  },
+  {
+    "name": "Sneasel",
+    "number": "#215",
+    "image": "./src/imagens/sneasel.gif",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Gelo"
+    ],
+    "description": "Suas patas escondem garras afiadas. Se atacado, ele repentinamente estende as garras e assusta seu inimigo."
+  },
+  {
+    "name": "Teddiursa",
+    "number": "#216",
+    "image": "./src/imagens/teddiursa.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Se encontrar mel, sua marca crescente brilha. Ele sempre lambe as patas porque estão encharcadas de mel."
+  },
+  {
+    "name": "Ursaring",
+    "number": "#217",
+    "image": "./src/imagens/ursaring.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Embora seja um bom escalador, prefere quebrar árvores com as patas dianteiras e comer BAGAS caídas."
+  },
+  {
+    "name": "Slugma",
+    "number": "#218",
+    "image": "./src/imagens/slugma.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Ele nunca dorme. Ele tem que continuar se movendo porque se parasse, seu corpo de magma esfriaria e endureceria."
+  },
+  {
+    "name": "Magcargo",
+    "number": "#219",
+    "image": "./src/imagens/magcargo.gif",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Pedra"
+    ],
+    "description": "A casca nas costas é apenas a pele que esfriou e endureceu. Quebra facilmente com um leve toque."
+  },
+  {
+    "name": "Swinub",
+    "number": "#220",
+    "image": "./src/imagens/swinub.gif",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Terra"
+    ],
+    "description": "Esfrega o focinho no chão para encontrar e desenterrar comida. Às vezes, descobre fontes termais."
+  },
+  {
+    "name": "Piloswine",
+    "number": "#221",
+    "image": "./src/imagens/piloswine.gif",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Terra"
+    ],
+    "description": "Como o cabelo comprido em todo o corpo obscurece a visão, ele continua carregando repetidamente."
+  },
+  {
+    "name": "Corsola",
+    "number": "#222",
+    "image": "./src/imagens/corsola.gif",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "typeNames": [
+      "Água",
+      "Pedra"
+    ],
+    "description": "Ele continuamente se espalha e cresce. A ponta de sua cabeça é valorizada como um tesouro por sua beleza."
+  },
+  {
+    "name": "Remoraid",
+    "number": "#223",
+    "image": "./src/imagens/remoraid.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Tem uma excelente acuidade. A água que ele dispara pode atingir até mesmo presas em movimento a mais de 90 metros."
+  },
+  {
+    "name": "Octillery",
+    "number": "#224",
+    "image": "./src/imagens/octillery.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Ele prende os inimigos com seus tentáculos com ventosa e depois os esmaga com sua cabeça dura como pedra."
+  },
+  {
+    "name": "Delibird",
+    "number": "#225",
+    "image": "./src/imagens/delibird.gif",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Voador"
+    ],
+    "description": "Ele transporta comida o dia todo. Há contos sobre pessoas perdidas que foram salvas pela comida que tinha."
+  },
+  {
+    "name": "Mantine",
+    "number": "#226",
+    "image": "./src/imagens/mantine.gif",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "typeNames": [
+      "Água",
+      "Voador"
+    ],
+    "description": "Enquanto nada majestosamente, não se importa se o REMORAID se prende a ele para limpar suas sobras."
+  },
+  {
+    "name": "Skarmory",
+    "number": "#227",
+    "image": "./src/imagens/skarmory.gif",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "typeNames": [
+      "Aço",
+      "Voador"
+    ],
+    "description": "Suas asas resistentes parecem pesadas, mas na verdade são ocas e leves, permitindo que voe livremente no céu."
+  },
+  {
+    "name": "Houndour",
+    "number": "#228",
+    "image": "./src/imagens/houndour.gif",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "description": "Ele usa diferentes tipos de gritos para se comunicar com outros de seu tipo e para perseguir sua presa."
+  },
+  {
+    "name": "Houndoom",
+    "number": "#229",
+    "image": "./src/imagens/houndoom.gif",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "description": "Se você for queimado pelas chamas que ele dispara de sua boca, a dor nunca desaparecerá."
+  },
+  {
+    "name": "Kingdra",
+    "number": "#230",
+    "image": "./src/imagens/kingdra.gif",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "typeNames": [
+      "Água",
+      "Dragão"
+    ],
+    "description": "Diz-se que geralmente se esconde em cavernas subaquáticas. Ele pode criar redemoinhos bocejando."
+  },
+  {
+    "name": "Phanpy",
+    "number": "#231",
+    "image": "./src/imagens/phanpy.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Ele balança seu longo focinho completamente, mas por ser tão forte, isso pode ser prejudicial."
+  },
+  {
+    "name": "Donphan",
+    "number": "#232",
+    "image": "./src/imagens/donphan.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Tem presas afiadas e duras e uma pele robusta. Seu EQUIPAMENTO é forte o suficiente para derrubar uma casa."
+  },
+  {
+    "name": "Porygon2",
+    "number": "#233",
+    "image": "./src/imagens/porygon2.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Esta versão atualizada do PORYGON foi projetada para exploração espacial. Mas não pode voar."
+  },
+  {
+    "name": "Stantler",
+    "number": "#234",
+    "image": "./src/imagens/stantler.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Os chifres curvos alteram sutilmente o fluxo de ar para criar um espaço estranho onde a realidade é distorcida."
+  },
+  {
+    "name": "Smeargle",
+    "number": "#235",
+    "image": "./src/imagens/smeargle.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um fluido especial escorre da ponta de sua cauda. Ele pinta o fluido em todos os lugares para marcar seu território."
+  },
+  {
+    "name": "Tyrogue",
+    "number": "#236",
+    "image": "./src/imagens/tyrogue.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Está sempre repleto de energia. Para se tornar mais forte, ele continua lutando, mesmo que perca."
+  },
+  {
+    "name": "Hitmontop",
+    "number": "#237",
+    "image": "./src/imagens/hitmontop.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Se você se encantar com seus chutes suaves, elegantes e dançantes, poderá ser perfurado com força."
+  },
+  {
+    "name": "Smoochum",
+    "number": "#238",
+    "image": "./src/imagens/smoochum.gif",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Psíquico"
+    ],
+    "description": "Seus lábios são as partes mais sensíveis do corpo. Ele sempre usa os lábios primeiro para examinar as coisas."
+  },
+  {
+    "name": "Elekid",
+    "number": "#239",
+    "image": "./src/imagens/elekid.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Ele gira os braços para gerar eletricidade, mas se cansa facilmente, então carrega apenas um pouco."
+  },
+  {
+    "name": "Magby",
+    "number": "#240",
+    "image": "./src/imagens/magby.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Toda vez que inspira e expira, brasas quentes escorrem de sua boca e narinas."
+  },
+  {
+    "name": "Miltank",
+    "number": "#241",
+    "image": "./src/imagens/miltank.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Seu leite é repleto de nutrientes, tornando-se a melhor bebida para os doentes ou cansados."
+  },
+  {
+    "name": "Blissey",
+    "number": "#242",
+    "image": "./src/imagens/blissey.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Qualquer um que dê uma mordida no ovo de BLISSEY se torna infalivelmente carinhoso e agradável a todos."
+  },
+  {
+    "name": "Raikou",
+    "number": "#243",
+    "image": "./src/imagens/raikou.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "As nuvens de chuva que carrega permitem disparar raios à vontade. Dizem que desceu com um raio."
+  },
+  {
+    "name": "Entei",
+    "number": "#244",
+    "image": "./src/imagens/entei.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Vulcões entram em erupção quando ele late. Incapaz de conter seu poder extremo, ele corre de cabeça pela terra."
+  },
+  {
+    "name": "Suicune",
+    "number": "#245",
+    "image": "./src/imagens/suicune.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Ele corre ao redor do mundo para purificar a água suja. Ele se afasta com o vento norte."
+  },
+  {
+    "name": "Larvitar",
+    "number": "#246",
+    "image": "./src/imagens/larvitar.gif",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Terra"
+    ],
+    "description": "Alimenta-se do solo. Depois de comer uma grande montanha, ela adormecerá para que possa crescer."
+  },
+  {
+    "name": "Pupitar",
+    "number": "#247",
+    "image": "./src/imagens/pupitar.gif",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Terra"
+    ],
+    "description": "Sua concha é tão dura quanto uma rocha, e também é muito forte. Sua SURRA pode derrubar uma montanha."
+  },
+  {
+    "name": "Tyranitar",
+    "number": "#248",
+    "image": "./src/imagens/tyranitar.gif",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Sombrio"
+    ],
+    "description": "Seu corpo não pode ser ferido por nenhum tipo de ataque, por isso está muito ansioso para fazer desafios contra inimigos."
+  },
+  {
+    "name": "Lugia",
+    "number": "#249",
+    "image": "./src/imagens/lugia.gif",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Voador"
+    ],
+    "description": "Dizem que ele passa seu tempo silenciosamente no fundo do mar porque seus poderes são muito fortes."
+  },
+  {
+    "name": "Ho Oh",
+    "number": "#250",
+    "image": "./src/imagens/ho oh.gif",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Voador"
+    ],
+    "description": "Um Pokémon Fogo/Voador do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Celebi",
+    "number": "#251",
+    "image": "./src/imagens/celebi.gif",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Grama"
+    ],
+    "description": "Um Pokémon Psíquico/Grama do tipo Psíquico com poderes mentais."
+  }
+]

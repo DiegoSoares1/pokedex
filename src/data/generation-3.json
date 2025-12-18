@@ -1,0 +1,1754 @@
+[
+  {
+    "name": "Treecko",
+    "number": "#252",
+    "image": "./src/imagens/treecko.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Grovyle",
+    "number": "#253",
+    "image": "./src/imagens/grovyle.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Sceptile",
+    "number": "#254",
+    "image": "./src/imagens/sceptile.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Torchic",
+    "number": "#255",
+    "image": "./src/imagens/torchic.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Um Pokémon do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Combusken",
+    "number": "#256",
+    "image": "./src/imagens/combusken.gif",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Lutador"
+    ],
+    "description": "Um Pokémon Fogo/Lutador do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Blaziken",
+    "number": "#257",
+    "image": "./src/imagens/blaziken.gif",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Lutador"
+    ],
+    "description": "Um Pokémon Fogo/Lutador do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Mudkip",
+    "number": "#258",
+    "image": "./src/imagens/mudkip.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Marshtomp",
+    "number": "#259",
+    "image": "./src/imagens/marshtomp.gif",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "typeNames": [
+      "Água",
+      "Terra"
+    ],
+    "description": "Um Pokémon Água/Terra do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Swampert",
+    "number": "#260",
+    "image": "./src/imagens/swampert.gif",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "typeNames": [
+      "Água",
+      "Terra"
+    ],
+    "description": "Um Pokémon Água/Terra do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Poochyena",
+    "number": "#261",
+    "image": "./src/imagens/poochyena.gif",
+    "types": [
+      "dark"
+    ],
+    "typeNames": [
+      "Sombrio"
+    ],
+    "description": "Um Pokémon do tipo Sombrio com habilidades ocultas."
+  },
+  {
+    "name": "Mightyena",
+    "number": "#262",
+    "image": "./src/imagens/mightyena.gif",
+    "types": [
+      "dark"
+    ],
+    "typeNames": [
+      "Sombrio"
+    ],
+    "description": "Um Pokémon do tipo Sombrio com habilidades ocultas."
+  },
+  {
+    "name": "Zigzagoon",
+    "number": "#263",
+    "image": "./src/imagens/zigzagoon.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Linoone",
+    "number": "#264",
+    "image": "./src/imagens/linoone.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Wurmple",
+    "number": "#265",
+    "image": "./src/imagens/wurmple.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Um Pokémon do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Silcoon",
+    "number": "#266",
+    "image": "./src/imagens/silcoon.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Um Pokémon do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Beautifly",
+    "number": "#267",
+    "image": "./src/imagens/beautifly.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Um Pokémon Inseto/Voador do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Cascoon",
+    "number": "#268",
+    "image": "./src/imagens/cascoon.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Um Pokémon do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Dustox",
+    "number": "#269",
+    "image": "./src/imagens/dustox.gif",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Veneno"
+    ],
+    "description": "Um Pokémon Inseto/Veneno do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Lotad",
+    "number": "#270",
+    "image": "./src/imagens/lotad.gif",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "typeNames": [
+      "Água",
+      "Grama"
+    ],
+    "description": "Ele procura por água limpa. Se não beber água por muito tempo, a folha em sua cabeça murcha."
+  },
+  {
+    "name": "Lombre",
+    "number": "#271",
+    "image": "./src/imagens/lombre.gif",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "typeNames": [
+      "Água",
+      "Grama"
+    ],
+    "description": "Ele vive na beira da água, onde é ensolarado. Ele dorme em uma cama de capim-d 'água durante o dia e se torna ativo à noite."
+  },
+  {
+    "name": "Ludicolo",
+    "number": "#272",
+    "image": "./src/imagens/ludicolo.gif",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "typeNames": [
+      "Água",
+      "Grama"
+    ],
+    "description": "Um Pokémon Água/Grama do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Seedot",
+    "number": "#273",
+    "image": "./src/imagens/seedot.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Nuzleaf",
+    "number": "#274",
+    "image": "./src/imagens/nuzleaf.gif",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "typeNames": [
+      "Grama",
+      "Sombrio"
+    ],
+    "description": "Um Pokémon Grama/Sombrio do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Shiftry",
+    "number": "#275",
+    "image": "./src/imagens/shiftry.gif",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "typeNames": [
+      "Grama",
+      "Sombrio"
+    ],
+    "description": "Ele vive em silêncio na floresta profunda. Diz-se que cria ventos frios de inverno com os ventiladores que segura."
+  },
+  {
+    "name": "Taillow",
+    "number": "#276",
+    "image": "./src/imagens/taillow.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Um Pokémon Normal/Voador do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Swellow",
+    "number": "#277",
+    "image": "./src/imagens/swellow.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Um Pokémon Normal/Voador do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Wingull",
+    "number": "#278",
+    "image": "./src/imagens/wingull.gif",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "typeNames": [
+      "Água",
+      "Voador"
+    ],
+    "description": "Um Pokémon Água/Voador do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Pelipper",
+    "number": "#279",
+    "image": "./src/imagens/pelipper.gif",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "typeNames": [
+      "Água",
+      "Voador"
+    ],
+    "description": "Um Pokémon Água/Voador do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Ralts",
+    "number": "#280",
+    "image": "./src/imagens/ralts.gif",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Fada"
+    ],
+    "description": "Um Pokémon Psíquico/Fada do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Kirlia",
+    "number": "#281",
+    "image": "./src/imagens/kirlia.gif",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Fada"
+    ],
+    "description": "Um Pokémon Psíquico/Fada do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Gardevoir",
+    "number": "#282",
+    "image": "./src/imagens/gardevoir.gif",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "typeNames": [
+      "Psíquico",
+      "Fada"
+    ],
+    "description": "Um Pokémon Psíquico/Fada do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Surskit",
+    "number": "#283",
+    "image": "./src/imagens/surskit.gif",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Água"
+    ],
+    "description": "Um Pokémon Inseto/Água do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Masquerain",
+    "number": "#284",
+    "image": "./src/imagens/masquerain.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Um Pokémon Inseto/Voador do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Shroomish",
+    "number": "#285",
+    "image": "./src/imagens/shroomish.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Breloom",
+    "number": "#286",
+    "image": "./src/imagens/breloom.gif",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "typeNames": [
+      "Grama",
+      "Lutador"
+    ],
+    "description": "Um Pokémon Grama/Lutador do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Slakoth",
+    "number": "#287",
+    "image": "./src/imagens/slakoth.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Vigoroth",
+    "number": "#288",
+    "image": "./src/imagens/vigoroth.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Slaking",
+    "number": "#289",
+    "image": "./src/imagens/slaking.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Nincada",
+    "number": "#290",
+    "image": "./src/imagens/nincada.gif",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Terra"
+    ],
+    "description": "Um Pokémon Inseto/Terra do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Ninjask",
+    "number": "#291",
+    "image": "./src/imagens/ninjask.gif",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Voador"
+    ],
+    "description": "Um Pokémon Inseto/Voador do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Shedinja",
+    "number": "#292",
+    "image": "./src/imagens/shedinja.gif",
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "typeNames": [
+      "Inseto",
+      "Fantasma"
+    ],
+    "description": "Um Pokémon Inseto/Fantasma do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Whismur",
+    "number": "#293",
+    "image": "./src/imagens/whismur.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Loudred",
+    "number": "#294",
+    "image": "./src/imagens/loudred.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Exploud",
+    "number": "#295",
+    "image": "./src/imagens/exploud.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Makuhita",
+    "number": "#296",
+    "image": "./src/imagens/makuhita.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Um Pokémon do tipo Lutador com grande força física."
+  },
+  {
+    "name": "Hariyama",
+    "number": "#297",
+    "image": "./src/imagens/hariyama.gif",
+    "types": [
+      "fighting"
+    ],
+    "typeNames": [
+      "Lutador"
+    ],
+    "description": "Tem o hábito de desafiar os outros sem hesitar para testes de força. É conhecido por ficar em trilhos de trem e parar trens usando empuxos do antebraço."
+  },
+  {
+    "name": "Azurill",
+    "number": "#298",
+    "image": "./src/imagens/azurill.gif",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "typeNames": [
+      "Normal",
+      "Fada"
+    ],
+    "description": "Um Pokémon Normal/Fada do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Nosepass",
+    "number": "#299",
+    "image": "./src/imagens/nosepass.gif",
+    "types": [
+      "rock"
+    ],
+    "typeNames": [
+      "Pedra"
+    ],
+    "description": "Um Pokémon do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Skitty",
+    "number": "#300",
+    "image": "./src/imagens/skitty.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Delcatty",
+    "number": "#301",
+    "image": "./src/imagens/delcatty.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Sableye",
+    "number": "#302",
+    "image": "./src/imagens/sableye.gif",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "typeNames": [
+      "Sombrio",
+      "Fantasma"
+    ],
+    "description": "Um Pokémon Sombrio/Fantasma do tipo Sombrio com habilidades ocultas."
+  },
+  {
+    "name": "Mawile",
+    "number": "#303",
+    "image": "./src/imagens/mawile.gif",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "typeNames": [
+      "Aço",
+      "Fada"
+    ],
+    "description": "As enormes mandíbulas da MAWHILE são, na verdade, chifres de aço que foram transformados. Seu rosto de aparência dócil serve para acalmar seu inimigo e fazê-lo baixar a guarda. Quando o inimigo menos espera, MAWHILE o morde com suas mandíbulas escancaradas."
+  },
+  {
+    "name": "Aron",
+    "number": "#304",
+    "image": "./src/imagens/aron.gif",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "typeNames": [
+      "Aço",
+      "Pedra"
+    ],
+    "description": "Um Pokémon Aço/Pedra do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Lairon",
+    "number": "#305",
+    "image": "./src/imagens/lairon.gif",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "typeNames": [
+      "Aço",
+      "Pedra"
+    ],
+    "description": "Um Pokémon Aço/Pedra do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Aggron",
+    "number": "#306",
+    "image": "./src/imagens/aggron.gif",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "typeNames": [
+      "Aço",
+      "Pedra"
+    ],
+    "description": "Um Pokémon Aço/Pedra do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Meditite",
+    "number": "#307",
+    "image": "./src/imagens/meditite.gif",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "typeNames": [
+      "Lutador",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Lutador/Psíquico do tipo Lutador com grande força física."
+  },
+  {
+    "name": "Medicham",
+    "number": "#308",
+    "image": "./src/imagens/medicham.gif",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "typeNames": [
+      "Lutador",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Lutador/Psíquico do tipo Lutador com grande força física."
+  },
+  {
+    "name": "Electrike",
+    "number": "#309",
+    "image": "./src/imagens/electrike.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Um Pokémon do tipo Elétrico capaz de gerar energia elétrica."
+  },
+  {
+    "name": "Manectric",
+    "number": "#310",
+    "image": "./src/imagens/manectric.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Um Pokémon do tipo Elétrico capaz de gerar energia elétrica."
+  },
+  {
+    "name": "Plusle",
+    "number": "#311",
+    "image": "./src/imagens/plusle.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "Um Pokémon do tipo Elétrico capaz de gerar energia elétrica."
+  },
+  {
+    "name": "Minun",
+    "number": "#312",
+    "image": "./src/imagens/minun.gif",
+    "types": [
+      "electric"
+    ],
+    "typeNames": [
+      "Elétrico"
+    ],
+    "description": "A MINUN está mais preocupada em torcer por seus parceiros do que em sua própria segurança. Ele encurta a eletricidade em seu corpo para criar chuvas brilhantes de faíscas para animar seus companheiros de equipe."
+  },
+  {
+    "name": "Volbeat",
+    "number": "#313",
+    "image": "./src/imagens/volbeat.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Um Pokémon do tipo Inseto com características especiais."
+  },
+  {
+    "name": "Illumise",
+    "number": "#314",
+    "image": "./src/imagens/illumise.gif",
+    "types": [
+      "bug"
+    ],
+    "typeNames": [
+      "Inseto"
+    ],
+    "description": "Com seu doce aroma, orienta Volbeat a desenhar sinais com luz no céu noturno."
+  },
+  {
+    "name": "Roselia",
+    "number": "#315",
+    "image": "./src/imagens/roselia.gif",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "typeNames": [
+      "Grama",
+      "Veneno"
+    ],
+    "description": "Um Pokémon Grama/Veneno do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Gulpin",
+    "number": "#316",
+    "image": "./src/imagens/gulpin.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Um Pokémon do tipo Veneno com habilidades tóxicas."
+  },
+  {
+    "name": "Swalot",
+    "number": "#317",
+    "image": "./src/imagens/swalot.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Um Pokémon do tipo Veneno com habilidades tóxicas."
+  },
+  {
+    "name": "Carvanha",
+    "number": "#318",
+    "image": "./src/imagens/carvanha.gif",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "typeNames": [
+      "Água",
+      "Sombrio"
+    ],
+    "description": "Um Pokémon Água/Sombrio do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Sharpedo",
+    "number": "#319",
+    "image": "./src/imagens/sharpedo.gif",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "typeNames": [
+      "Água",
+      "Sombrio"
+    ],
+    "description": "Um Pokémon Água/Sombrio do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Wailmer",
+    "number": "#320",
+    "image": "./src/imagens/wailmer.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Wailord",
+    "number": "#321",
+    "image": "./src/imagens/wailord.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Numel",
+    "number": "#322",
+    "image": "./src/imagens/numel.gif",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Terra"
+    ],
+    "description": "Um Pokémon Fogo/Terra do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Camerupt",
+    "number": "#323",
+    "image": "./src/imagens/camerupt.gif",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "typeNames": [
+      "Fogo",
+      "Terra"
+    ],
+    "description": "Um Pokémon Fogo/Terra do tipo Fogo com características únicas e poderosas."
+  },
+  {
+    "name": "Torkoal",
+    "number": "#324",
+    "image": "./src/imagens/torkoal.gif",
+    "types": [
+      "fire"
+    ],
+    "typeNames": [
+      "Fogo"
+    ],
+    "description": "Você pode dizer como está se sentindo pela fumaça que sai de sua concha. Velocidade tremenda é um sinal de boa saúde."
+  },
+  {
+    "name": "Spoink",
+    "number": "#325",
+    "image": "./src/imagens/spoink.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Grumpig",
+    "number": "#326",
+    "image": "./src/imagens/grumpig.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Spinda",
+    "number": "#327",
+    "image": "./src/imagens/spinda.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Não há dois Spinda com o mesmo padrão de manchas. Seu passo cambaleante atropela o objetivo dos inimigos."
+  },
+  {
+    "name": "Trapinch",
+    "number": "#328",
+    "image": "./src/imagens/trapinch.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Um Pokémon do tipo Terra que vive no solo."
+  },
+  {
+    "name": "Vibrava",
+    "number": "#329",
+    "image": "./src/imagens/vibrava.gif",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "typeNames": [
+      "Terra",
+      "Dragão"
+    ],
+    "description": "Um Pokémon Terra/Dragão do tipo Terra que vive no solo."
+  },
+  {
+    "name": "Flygon",
+    "number": "#330",
+    "image": "./src/imagens/flygon.gif",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "typeNames": [
+      "Terra",
+      "Dragão"
+    ],
+    "description": "Um Pokémon Terra/Dragão do tipo Terra que vive no solo."
+  },
+  {
+    "name": "Cacnea",
+    "number": "#331",
+    "image": "./src/imagens/cacnea.gif",
+    "types": [
+      "grass"
+    ],
+    "typeNames": [
+      "Grama"
+    ],
+    "description": "Um Pokémon do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Cacturne",
+    "number": "#332",
+    "image": "./src/imagens/cacturne.gif",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "typeNames": [
+      "Grama",
+      "Sombrio"
+    ],
+    "description": "Um Pokémon Grama/Sombrio do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Swablu",
+    "number": "#333",
+    "image": "./src/imagens/swablu.gif",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeNames": [
+      "Normal",
+      "Voador"
+    ],
+    "description": "Um Pokémon Normal/Voador do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Altaria",
+    "number": "#334",
+    "image": "./src/imagens/altaria.gif",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "typeNames": [
+      "Dragão",
+      "Voador"
+    ],
+    "description": "Um Pokémon Dragão/Voador do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Zangoose",
+    "number": "#335",
+    "image": "./src/imagens/zangoose.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Seviper",
+    "number": "#336",
+    "image": "./src/imagens/seviper.gif",
+    "types": [
+      "poison"
+    ],
+    "typeNames": [
+      "Veneno"
+    ],
+    "description": "Um Pokémon do tipo Veneno com habilidades tóxicas."
+  },
+  {
+    "name": "Lunatone",
+    "number": "#337",
+    "image": "./src/imagens/lunatone.gif",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Pedra/Psíquico do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Solrock",
+    "number": "#338",
+    "image": "./src/imagens/solrock.gif",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Psíquico"
+    ],
+    "description": "A energia solar é a fonte de sua energia, por isso é forte durante o dia. Quando gira, seu corpo brilha."
+  },
+  {
+    "name": "Barboach",
+    "number": "#339",
+    "image": "./src/imagens/barboach.gif",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "typeNames": [
+      "Água",
+      "Terra"
+    ],
+    "description": "Um Pokémon Água/Terra do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Whiscash",
+    "number": "#340",
+    "image": "./src/imagens/whiscash.gif",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "typeNames": [
+      "Água",
+      "Terra"
+    ],
+    "description": "Um Pokémon Água/Terra do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Corphish",
+    "number": "#341",
+    "image": "./src/imagens/corphish.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Sua vitalidade resistente permite que ele se adapte a qualquer ambiente. Suas pinças nunca libertarão presas."
+  },
+  {
+    "name": "Crawdaunt",
+    "number": "#342",
+    "image": "./src/imagens/crawdaunt.gif",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "typeNames": [
+      "Água",
+      "Sombrio"
+    ],
+    "description": "Um Pokémon Água/Sombrio do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Baltoy",
+    "number": "#343",
+    "image": "./src/imagens/baltoy.gif",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "typeNames": [
+      "Terra",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Terra/Psíquico do tipo Terra que vive no solo."
+  },
+  {
+    "name": "Claydol",
+    "number": "#344",
+    "image": "./src/imagens/claydol.gif",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "typeNames": [
+      "Terra",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Terra/Psíquico do tipo Terra que vive no solo."
+  },
+  {
+    "name": "Lileep",
+    "number": "#345",
+    "image": "./src/imagens/lileep.gif",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Grama"
+    ],
+    "description": "Um Pokémon Pedra/Grama do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Cradily",
+    "number": "#346",
+    "image": "./src/imagens/cradily.gif",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Grama"
+    ],
+    "description": "Um Pokémon Pedra/Grama do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Anorith",
+    "number": "#347",
+    "image": "./src/imagens/anorith.gif",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Inseto"
+    ],
+    "description": "Um Pokémon Pedra/Inseto do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Armaldo",
+    "number": "#348",
+    "image": "./src/imagens/armaldo.gif",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "typeNames": [
+      "Pedra",
+      "Inseto"
+    ],
+    "description": "Um Pokémon Pedra/Inseto do tipo Pedra com corpo resistente."
+  },
+  {
+    "name": "Feebas",
+    "number": "#349",
+    "image": "./src/imagens/feebas.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Milotic",
+    "number": "#350",
+    "image": "./src/imagens/milotic.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Suas lindas escamas são descritas como de cor arco-íris. Eles mudam de cor dependendo do ângulo de visão."
+  },
+  {
+    "name": "Castform",
+    "number": "#351",
+    "image": "./src/imagens/castform.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Um Pokémon do tipo Normal com características equilibradas."
+  },
+  {
+    "name": "Kecleon",
+    "number": "#352",
+    "image": "./src/imagens/kecleon.gif",
+    "types": [
+      "normal"
+    ],
+    "typeNames": [
+      "Normal"
+    ],
+    "description": "Ele muda a cor do corpo para se misturar com o ambiente. Também muda de cor se estiver feliz ou triste."
+  },
+  {
+    "name": "Shuppet",
+    "number": "#353",
+    "image": "./src/imagens/shuppet.gif",
+    "types": [
+      "ghost"
+    ],
+    "typeNames": [
+      "Fantasma"
+    ],
+    "description": "Um Pokémon do tipo Fantasma com habilidades misteriosas."
+  },
+  {
+    "name": "Banette",
+    "number": "#354",
+    "image": "./src/imagens/banette.gif",
+    "types": [
+      "ghost"
+    ],
+    "typeNames": [
+      "Fantasma"
+    ],
+    "description": "Um Pokémon do tipo Fantasma com habilidades misteriosas."
+  },
+  {
+    "name": "Duskull",
+    "number": "#355",
+    "image": "./src/imagens/duskull.gif",
+    "types": [
+      "ghost"
+    ],
+    "typeNames": [
+      "Fantasma"
+    ],
+    "description": "Um Pokémon do tipo Fantasma com habilidades misteriosas."
+  },
+  {
+    "name": "Dusclops",
+    "number": "#356",
+    "image": "./src/imagens/dusclops.gif",
+    "types": [
+      "ghost"
+    ],
+    "typeNames": [
+      "Fantasma"
+    ],
+    "description": "Um Pokémon do tipo Fantasma com habilidades misteriosas."
+  },
+  {
+    "name": "Tropius",
+    "number": "#357",
+    "image": "./src/imagens/tropius.gif",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "typeNames": [
+      "Grama",
+      "Voador"
+    ],
+    "description": "Um Pokémon Grama/Voador do tipo Grama que vive em harmonia com a natureza."
+  },
+  {
+    "name": "Chimecho",
+    "number": "#358",
+    "image": "./src/imagens/chimecho.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Absol",
+    "number": "#359",
+    "image": "./src/imagens/absol.gif",
+    "types": [
+      "dark"
+    ],
+    "typeNames": [
+      "Sombrio"
+    ],
+    "description": "Um Pokémon do tipo Sombrio com habilidades ocultas."
+  },
+  {
+    "name": "Wynaut",
+    "number": "#360",
+    "image": "./src/imagens/wynaut.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  },
+  {
+    "name": "Snorunt",
+    "number": "#361",
+    "image": "./src/imagens/snorunt.gif",
+    "types": [
+      "ice"
+    ],
+    "typeNames": [
+      "Gelo"
+    ],
+    "description": "Um Pokémon do tipo Gelo que controla o poder do gelo."
+  },
+  {
+    "name": "Glalie",
+    "number": "#362",
+    "image": "./src/imagens/glalie.gif",
+    "types": [
+      "ice"
+    ],
+    "typeNames": [
+      "Gelo"
+    ],
+    "description": "Um Pokémon do tipo Gelo que controla o poder do gelo."
+  },
+  {
+    "name": "Spheal",
+    "number": "#363",
+    "image": "./src/imagens/spheal.gif",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Água"
+    ],
+    "description": "Um Pokémon Gelo/Água do tipo Gelo que controla o poder do gelo."
+  },
+  {
+    "name": "Sealeo",
+    "number": "#364",
+    "image": "./src/imagens/sealeo.gif",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Água"
+    ],
+    "description": "Um Pokémon Gelo/Água do tipo Gelo que controla o poder do gelo."
+  },
+  {
+    "name": "Walrein",
+    "number": "#365",
+    "image": "./src/imagens/walrein.gif",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "typeNames": [
+      "Gelo",
+      "Água"
+    ],
+    "description": "Ele nada por mares gelados enquanto quebra blocos de gelo com suas grandes presas. É protegido por sua gordura espessa."
+  },
+  {
+    "name": "Clamperl",
+    "number": "#366",
+    "image": "./src/imagens/clamperl.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "O invólucro resistente da CLAMPERL não é apenas bom para proteção - também é usado para prender e capturar presas. A concha de um CLAMPERL totalmente crescido será marcada com cortes e arranhões por toda parte."
+  },
+  {
+    "name": "Huntail",
+    "number": "#367",
+    "image": "./src/imagens/huntail.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Gorebyss",
+    "number": "#368",
+    "image": "./src/imagens/gorebyss.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Relicanth",
+    "number": "#369",
+    "image": "./src/imagens/relicanth.gif",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "typeNames": [
+      "Água",
+      "Pedra"
+    ],
+    "description": "Um Pokémon Água/Pedra do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Luvdisc",
+    "number": "#370",
+    "image": "./src/imagens/luvdisc.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Bagon",
+    "number": "#371",
+    "image": "./src/imagens/bagon.gif",
+    "types": [
+      "dragon"
+    ],
+    "typeNames": [
+      "Dragão"
+    ],
+    "description": "Sonhando com um dia voando, ele pratica pulando de penhascos todos os dias."
+  },
+  {
+    "name": "Shelgon",
+    "number": "#372",
+    "image": "./src/imagens/shelgon.gif",
+    "types": [
+      "dragon"
+    ],
+    "typeNames": [
+      "Dragão"
+    ],
+    "description": "Um Pokémon do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Salamence",
+    "number": "#373",
+    "image": "./src/imagens/salamence.gif",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "typeNames": [
+      "Dragão",
+      "Voador"
+    ],
+    "description": "Um Pokémon Dragão/Voador do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Beldum",
+    "number": "#374",
+    "image": "./src/imagens/beldum.gif",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "typeNames": [
+      "Aço",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Aço/Psíquico do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Metang",
+    "number": "#375",
+    "image": "./src/imagens/metang.gif",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "typeNames": [
+      "Aço",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Aço/Psíquico do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Metagross",
+    "number": "#376",
+    "image": "./src/imagens/metagross.gif",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "typeNames": [
+      "Aço",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Aço/Psíquico do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Regirock",
+    "number": "#377",
+    "image": "./src/imagens/regirock.gif",
+    "types": [
+      "rock"
+    ],
+    "typeNames": [
+      "Pedra"
+    ],
+    "description": "Todo o seu corpo é feito de rocha. Se alguma parte se desprender em batalha, ela prende pedras para se reparar."
+  },
+  {
+    "name": "Regice",
+    "number": "#378",
+    "image": "./src/imagens/regice.gif",
+    "types": [
+      "ice"
+    ],
+    "typeNames": [
+      "Gelo"
+    ],
+    "description": "Um Pokémon do tipo Gelo que controla o poder do gelo."
+  },
+  {
+    "name": "Registeel",
+    "number": "#379",
+    "image": "./src/imagens/registeel.gif",
+    "types": [
+      "steel"
+    ],
+    "typeNames": [
+      "Aço"
+    ],
+    "description": "Um Pokémon do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Latias",
+    "number": "#380",
+    "image": "./src/imagens/latias.gif",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "typeNames": [
+      "Dragão",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Dragão/Psíquico do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Latios",
+    "number": "#381",
+    "image": "./src/imagens/latios.gif",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "typeNames": [
+      "Dragão",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Dragão/Psíquico do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Kyogre",
+    "number": "#382",
+    "image": "./src/imagens/kyogre.gif",
+    "types": [
+      "water"
+    ],
+    "typeNames": [
+      "Água"
+    ],
+    "description": "Um Pokémon do tipo Água conhecido por suas habilidades aquáticas."
+  },
+  {
+    "name": "Groudon",
+    "number": "#383",
+    "image": "./src/imagens/groudon.gif",
+    "types": [
+      "ground"
+    ],
+    "typeNames": [
+      "Terra"
+    ],
+    "description": "Um Pokémon do tipo Terra que vive no solo."
+  },
+  {
+    "name": "Rayquaza",
+    "number": "#384",
+    "image": "./src/imagens/rayquaza.gif",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "typeNames": [
+      "Dragão",
+      "Voador"
+    ],
+    "description": "Um Pokémon Dragão/Voador do tipo Dragão com grande poder."
+  },
+  {
+    "name": "Jirachi",
+    "number": "#385",
+    "image": "./src/imagens/jirachi.gif",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "typeNames": [
+      "Aço",
+      "Psíquico"
+    ],
+    "description": "Um Pokémon Aço/Psíquico do tipo Aço com corpo metálico."
+  },
+  {
+    "name": "Deoxys Normal",
+    "number": "#386",
+    "image": "./src/imagens/deoxys normal.gif",
+    "types": [
+      "psychic"
+    ],
+    "typeNames": [
+      "Psíquico"
+    ],
+    "description": "Um Pokémon do tipo Psíquico com poderes mentais."
+  }
+]
