@@ -2,7 +2,7 @@
   {
     "name": "Rowlet",
     "number": "#722",
-    "image": "./src/imagens/rowlet.png",
+    "image": "./assets/images/rowlet.png",
     "types": [
       "grass",
       "flying"
@@ -16,7 +16,7 @@
   {
     "name": "Dartrix",
     "number": "#723",
-    "image": "./src/imagens/dartrix.png",
+    "image": "./assets/images/dartrix.png",
     "types": [
       "grass",
       "flying"
@@ -30,7 +30,7 @@
   {
     "name": "Decidueye",
     "number": "#724",
-    "image": "./src/imagens/decidueye.png",
+    "image": "./assets/images/decidueye.png",
     "types": [
       "grass",
       "ghost"
@@ -44,7 +44,7 @@
   {
     "name": "Litten",
     "number": "#725",
-    "image": "./src/imagens/litten.png",
+    "image": "./assets/images/litten.png",
     "types": [
       "fire"
     ],
@@ -56,7 +56,7 @@
   {
     "name": "Torracat",
     "number": "#726",
-    "image": "./src/imagens/torracat.png",
+    "image": "./assets/images/torracat.png",
     "types": [
       "fire"
     ],
@@ -68,7 +68,7 @@
   {
     "name": "Incineroar",
     "number": "#727",
-    "image": "./src/imagens/incineroar.png",
+    "image": "./assets/images/incineroar.png",
     "types": [
       "fire",
       "dark"
@@ -82,7 +82,7 @@
   {
     "name": "Popplio",
     "number": "#728",
-    "image": "./src/imagens/popplio.png",
+    "image": "./assets/images/popplio.png",
     "types": [
       "water"
     ],
@@ -94,7 +94,7 @@
   {
     "name": "Brionne",
     "number": "#729",
-    "image": "./src/imagens/brionne.png",
+    "image": "./assets/images/brionne.png",
     "types": [
       "water"
     ],
@@ -106,7 +106,7 @@
   {
     "name": "Primarina",
     "number": "#730",
-    "image": "./src/imagens/primarina.png",
+    "image": "./assets/images/primarina.png",
     "types": [
       "water",
       "fairy"
@@ -120,7 +120,7 @@
   {
     "name": "Pikipek",
     "number": "#731",
-    "image": "./src/imagens/pikipek.png",
+    "image": "./assets/images/pikipek.png",
     "types": [
       "normal",
       "flying"
@@ -134,7 +134,7 @@
   {
     "name": "Trumbeak",
     "number": "#732",
-    "image": "./src/imagens/trumbeak.png",
+    "image": "./assets/images/trumbeak.png",
     "types": [
       "normal",
       "flying"
@@ -148,7 +148,7 @@
   {
     "name": "Toucannon",
     "number": "#733",
-    "image": "./src/imagens/toucannon.png",
+    "image": "./assets/images/toucannon.png",
     "types": [
       "normal",
       "flying"
@@ -162,7 +162,7 @@
   {
     "name": "Yungoos",
     "number": "#734",
-    "image": "./src/imagens/yungoos.png",
+    "image": "./assets/images/yungoos.png",
     "types": [
       "normal"
     ],
@@ -174,7 +174,7 @@
   {
     "name": "Gumshoos",
     "number": "#735",
-    "image": "./src/imagens/gumshoos.png",
+    "image": "./assets/images/gumshoos.png",
     "types": [
       "normal"
     ],
@@ -186,7 +186,7 @@
   {
     "name": "Grubbin",
     "number": "#736",
-    "image": "./src/imagens/grubbin.png",
+    "image": "./assets/images/grubbin.png",
     "types": [
       "bug"
     ],
@@ -198,7 +198,7 @@
   {
     "name": "Charjabug",
     "number": "#737",
-    "image": "./src/imagens/charjabug.png",
+    "image": "./assets/images/charjabug.png",
     "types": [
       "bug",
       "electric"
@@ -212,7 +212,7 @@
   {
     "name": "Vikavolt",
     "number": "#738",
-    "image": "./src/imagens/vikavolt.png",
+    "image": "./assets/images/vikavolt.png",
     "types": [
       "bug",
       "electric"
@@ -226,7 +226,7 @@
   {
     "name": "Crabrawler",
     "number": "#739",
-    "image": "./src/imagens/crabrawler.png",
+    "image": "./assets/images/crabrawler.png",
     "types": [
       "fighting"
     ],
@@ -238,7 +238,7 @@
   {
     "name": "Crabominable",
     "number": "#740",
-    "image": "./src/imagens/crabominable.png",
+    "image": "./assets/images/crabominable.png",
     "types": [
       "fighting",
       "ice"
@@ -252,7 +252,7 @@
   {
     "name": "Oricorio Baile",
     "number": "#741",
-    "image": "./src/imagens/oricorio baile.png",
+    "image": "./assets/images/oricorio baile.png",
     "types": [
       "fire",
       "flying"
@@ -266,7 +266,7 @@
   {
     "name": "Cutiefly",
     "number": "#742",
-    "image": "./src/imagens/cutiefly.png",
+    "image": "./assets/images/cutiefly.png",
     "types": [
       "bug",
       "fairy"
@@ -280,7 +280,7 @@
   {
     "name": "Ribombee",
     "number": "#743",
-    "image": "./src/imagens/ribombee.png",
+    "image": "./assets/images/ribombee.png",
     "types": [
       "bug",
       "fairy"
@@ -294,7 +294,7 @@
   {
     "name": "Rockruff",
     "number": "#744",
-    "image": "./src/imagens/rockruff.png",
+    "image": "./assets/images/rockruff.png",
     "types": [
       "rock"
     ],
@@ -306,7 +306,7 @@
   {
     "name": "Lycanroc Midday",
     "number": "#745",
-    "image": "./src/imagens/lycanroc midday.png",
+    "image": "./assets/images/lycanroc midday.png",
     "types": [
       "rock"
     ],
@@ -318,7 +318,7 @@
   {
     "name": "Wishiwashi Solo",
     "number": "#746",
-    "image": "./src/imagens/wishiwashi solo.png",
+    "image": "./assets/images/wishiwashi solo.png",
     "types": [
       "water"
     ],
@@ -330,7 +330,7 @@
   {
     "name": "Mareanie",
     "number": "#747",
-    "image": "./src/imagens/mareanie.png",
+    "image": "./assets/images/mareanie.png",
     "types": [
       "poison",
       "water"
@@ -344,7 +344,7 @@
   {
     "name": "Toxapex",
     "number": "#748",
-    "image": "./src/imagens/toxapex.png",
+    "image": "./assets/images/toxapex.png",
     "types": [
       "poison",
       "water"
@@ -358,7 +358,7 @@
   {
     "name": "Mudbray",
     "number": "#749",
-    "image": "./src/imagens/mudbray.png",
+    "image": "./assets/images/mudbray.png",
     "types": [
       "ground"
     ],
@@ -370,7 +370,7 @@
   {
     "name": "Mudsdale",
     "number": "#750",
-    "image": "./src/imagens/mudsdale.png",
+    "image": "./assets/images/mudsdale.png",
     "types": [
       "ground"
     ],
@@ -382,7 +382,7 @@
   {
     "name": "Dewpider",
     "number": "#751",
-    "image": "./src/imagens/dewpider.png",
+    "image": "./assets/images/dewpider.png",
     "types": [
       "water",
       "bug"
@@ -396,7 +396,7 @@
   {
     "name": "Araquanid",
     "number": "#752",
-    "image": "./src/imagens/araquanid.png",
+    "image": "./assets/images/araquanid.png",
     "types": [
       "water",
       "bug"
@@ -410,7 +410,7 @@
   {
     "name": "Fomantis",
     "number": "#753",
-    "image": "./src/imagens/fomantis.png",
+    "image": "./assets/images/fomantis.png",
     "types": [
       "grass"
     ],
@@ -422,7 +422,7 @@
   {
     "name": "Lurantis",
     "number": "#754",
-    "image": "./src/imagens/lurantis.png",
+    "image": "./assets/images/lurantis.png",
     "types": [
       "grass"
     ],
@@ -434,7 +434,7 @@
   {
     "name": "Morelull",
     "number": "#755",
-    "image": "./src/imagens/morelull.png",
+    "image": "./assets/images/morelull.png",
     "types": [
       "grass",
       "fairy"
@@ -448,7 +448,7 @@
   {
     "name": "Shiinotic",
     "number": "#756",
-    "image": "./src/imagens/shiinotic.png",
+    "image": "./assets/images/shiinotic.png",
     "types": [
       "grass",
       "fairy"
@@ -462,7 +462,7 @@
   {
     "name": "Salandit",
     "number": "#757",
-    "image": "./src/imagens/salandit.png",
+    "image": "./assets/images/salandit.png",
     "types": [
       "poison",
       "fire"
@@ -476,7 +476,7 @@
   {
     "name": "Salazzle",
     "number": "#758",
-    "image": "./src/imagens/salazzle.png",
+    "image": "./assets/images/salazzle.png",
     "types": [
       "poison",
       "fire"
@@ -490,7 +490,7 @@
   {
     "name": "Stufful",
     "number": "#759",
-    "image": "./src/imagens/stufful.png",
+    "image": "./assets/images/stufful.png",
     "types": [
       "normal",
       "fighting"
@@ -504,7 +504,7 @@
   {
     "name": "Bewear",
     "number": "#760",
-    "image": "./src/imagens/bewear.png",
+    "image": "./assets/images/bewear.png",
     "types": [
       "normal",
       "fighting"
@@ -518,7 +518,7 @@
   {
     "name": "Bounsweet",
     "number": "#761",
-    "image": "./src/imagens/bounsweet.png",
+    "image": "./assets/images/bounsweet.png",
     "types": [
       "grass"
     ],
@@ -530,7 +530,7 @@
   {
     "name": "Steenee",
     "number": "#762",
-    "image": "./src/imagens/steenee.png",
+    "image": "./assets/images/steenee.png",
     "types": [
       "grass"
     ],
@@ -542,7 +542,7 @@
   {
     "name": "Tsareena",
     "number": "#763",
-    "image": "./src/imagens/tsareena.png",
+    "image": "./assets/images/tsareena.png",
     "types": [
       "grass"
     ],
@@ -554,7 +554,7 @@
   {
     "name": "Comfey",
     "number": "#764",
-    "image": "./src/imagens/comfey.png",
+    "image": "./assets/images/comfey.png",
     "types": [
       "fairy"
     ],
@@ -566,7 +566,7 @@
   {
     "name": "Oranguru",
     "number": "#765",
-    "image": "./src/imagens/oranguru.png",
+    "image": "./assets/images/oranguru.png",
     "types": [
       "normal",
       "psychic"
@@ -580,7 +580,7 @@
   {
     "name": "Passimian",
     "number": "#766",
-    "image": "./src/imagens/passimian.png",
+    "image": "./assets/images/passimian.png",
     "types": [
       "fighting"
     ],
@@ -592,7 +592,7 @@
   {
     "name": "Wimpod",
     "number": "#767",
-    "image": "./src/imagens/wimpod.png",
+    "image": "./assets/images/wimpod.png",
     "types": [
       "bug",
       "water"
@@ -606,7 +606,7 @@
   {
     "name": "Golisopod",
     "number": "#768",
-    "image": "./src/imagens/golisopod.png",
+    "image": "./assets/images/golisopod.png",
     "types": [
       "bug",
       "water"
@@ -620,7 +620,7 @@
   {
     "name": "Sandygast",
     "number": "#769",
-    "image": "./src/imagens/sandygast.png",
+    "image": "./assets/images/sandygast.png",
     "types": [
       "ghost",
       "ground"
@@ -634,7 +634,7 @@
   {
     "name": "Palossand",
     "number": "#770",
-    "image": "./src/imagens/palossand.png",
+    "image": "./assets/images/palossand.png",
     "types": [
       "ghost",
       "ground"
@@ -648,7 +648,7 @@
   {
     "name": "Pyukumuku",
     "number": "#771",
-    "image": "./src/imagens/pyukumuku.png",
+    "image": "./assets/images/pyukumuku.png",
     "types": [
       "water"
     ],
@@ -660,7 +660,7 @@
   {
     "name": "Type: Null",
     "number": "#772",
-    "image": "./src/imagens/type-null.png",
+    "image": "./assets/images/type-null.png",
     "types": [
       "normal"
     ],
@@ -672,7 +672,7 @@
   {
     "name": "Silvally",
     "number": "#773",
-    "image": "./src/imagens/silvally.png",
+    "image": "./assets/images/silvally.png",
     "types": [
       "normal"
     ],
@@ -684,7 +684,7 @@
   {
     "name": "Minior Red Meteor",
     "number": "#774",
-    "image": "./src/imagens/minior red meteor.png",
+    "image": "./assets/images/minior red meteor.png",
     "types": [
       "rock",
       "flying"
@@ -698,7 +698,7 @@
   {
     "name": "Komala",
     "number": "#775",
-    "image": "./src/imagens/komala.png",
+    "image": "./assets/images/komala.png",
     "types": [
       "normal"
     ],
@@ -710,7 +710,7 @@
   {
     "name": "Turtonator",
     "number": "#776",
-    "image": "./src/imagens/turtonator.png",
+    "image": "./assets/images/turtonator.png",
     "types": [
       "fire",
       "dragon"
@@ -724,7 +724,7 @@
   {
     "name": "Togedemaru",
     "number": "#777",
-    "image": "./src/imagens/togedemaru.png",
+    "image": "./assets/images/togedemaru.png",
     "types": [
       "electric",
       "steel"
@@ -738,7 +738,7 @@
   {
     "name": "Mimikyu Disguised",
     "number": "#778",
-    "image": "./src/imagens/mimikyu disguised.png",
+    "image": "./assets/images/mimikyu disguised.png",
     "types": [
       "ghost",
       "fairy"
@@ -752,7 +752,7 @@
   {
     "name": "Bruxish",
     "number": "#779",
-    "image": "./src/imagens/bruxish.png",
+    "image": "./assets/images/bruxish.png",
     "types": [
       "water",
       "psychic"
@@ -766,7 +766,7 @@
   {
     "name": "Drampa",
     "number": "#780",
-    "image": "./src/imagens/drampa.png",
+    "image": "./assets/images/drampa.png",
     "types": [
       "normal",
       "dragon"
@@ -780,7 +780,7 @@
   {
     "name": "Dhelmise",
     "number": "#781",
-    "image": "./src/imagens/dhelmise.png",
+    "image": "./assets/images/dhelmise.png",
     "types": [
       "ghost",
       "grass"
@@ -794,7 +794,7 @@
   {
     "name": "Jangmo O",
     "number": "#782",
-    "image": "./src/imagens/jangmo o.png",
+    "image": "./assets/images/jangmo o.png",
     "types": [
       "dragon"
     ],
@@ -806,7 +806,7 @@
   {
     "name": "Hakamo O",
     "number": "#783",
-    "image": "./src/imagens/hakamo o.png",
+    "image": "./assets/images/hakamo o.png",
     "types": [
       "dragon",
       "fighting"
@@ -820,7 +820,7 @@
   {
     "name": "Kommo O",
     "number": "#784",
-    "image": "./src/imagens/kommo o.png",
+    "image": "./assets/images/kommo o.png",
     "types": [
       "dragon",
       "fighting"
@@ -834,7 +834,7 @@
   {
     "name": "Tapu Koko",
     "number": "#785",
-    "image": "./src/imagens/tapu koko.png",
+    "image": "./assets/images/tapu koko.png",
     "types": [
       "electric",
       "fairy"
@@ -848,7 +848,7 @@
   {
     "name": "Tapu Lele",
     "number": "#786",
-    "image": "./src/imagens/tapu lele.png",
+    "image": "./assets/images/tapu lele.png",
     "types": [
       "psychic",
       "fairy"
@@ -862,7 +862,7 @@
   {
     "name": "Tapu Bulu",
     "number": "#787",
-    "image": "./src/imagens/tapu bulu.png",
+    "image": "./assets/images/tapu bulu.png",
     "types": [
       "grass",
       "fairy"
@@ -876,7 +876,7 @@
   {
     "name": "Tapu Fini",
     "number": "#788",
-    "image": "./src/imagens/tapu fini.png",
+    "image": "./assets/images/tapu fini.png",
     "types": [
       "water",
       "fairy"
@@ -890,7 +890,7 @@
   {
     "name": "Cosmog",
     "number": "#789",
-    "image": "./src/imagens/cosmog.png",
+    "image": "./assets/images/cosmog.png",
     "types": [
       "psychic"
     ],
@@ -902,7 +902,7 @@
   {
     "name": "Cosmoem",
     "number": "#790",
-    "image": "./src/imagens/cosmoem.png",
+    "image": "./assets/images/cosmoem.png",
     "types": [
       "psychic"
     ],
@@ -914,7 +914,7 @@
   {
     "name": "Solgaleo",
     "number": "#791",
-    "image": "./src/imagens/solgaleo.png",
+    "image": "./assets/images/solgaleo.png",
     "types": [
       "psychic",
       "steel"
@@ -928,7 +928,7 @@
   {
     "name": "Lunala",
     "number": "#792",
-    "image": "./src/imagens/lunala.png",
+    "image": "./assets/images/lunala.png",
     "types": [
       "psychic",
       "ghost"
@@ -942,7 +942,7 @@
   {
     "name": "Nihilego",
     "number": "#793",
-    "image": "./src/imagens/nihilego.png",
+    "image": "./assets/images/nihilego.png",
     "types": [
       "rock",
       "poison"
@@ -956,7 +956,7 @@
   {
     "name": "Buzzwole",
     "number": "#794",
-    "image": "./src/imagens/buzzwole.png",
+    "image": "./assets/images/buzzwole.png",
     "types": [
       "bug",
       "fighting"
@@ -970,7 +970,7 @@
   {
     "name": "Pheromosa",
     "number": "#795",
-    "image": "./src/imagens/pheromosa.png",
+    "image": "./assets/images/pheromosa.png",
     "types": [
       "bug",
       "fighting"
@@ -984,7 +984,7 @@
   {
     "name": "Xurkitree",
     "number": "#796",
-    "image": "./src/imagens/xurkitree.png",
+    "image": "./assets/images/xurkitree.png",
     "types": [
       "electric"
     ],
@@ -996,7 +996,7 @@
   {
     "name": "Celesteela",
     "number": "#797",
-    "image": "./src/imagens/celesteela.png",
+    "image": "./assets/images/celesteela.png",
     "types": [
       "steel",
       "flying"
@@ -1010,7 +1010,7 @@
   {
     "name": "Kartana",
     "number": "#798",
-    "image": "./src/imagens/kartana.png",
+    "image": "./assets/images/kartana.png",
     "types": [
       "grass",
       "steel"
@@ -1024,7 +1024,7 @@
   {
     "name": "Guzzlord",
     "number": "#799",
-    "image": "./src/imagens/guzzlord.png",
+    "image": "./assets/images/guzzlord.png",
     "types": [
       "dark",
       "dragon"
@@ -1038,7 +1038,7 @@
   {
     "name": "Necrozma",
     "number": "#800",
-    "image": "./src/imagens/necrozma.png",
+    "image": "./assets/images/necrozma.png",
     "types": [
       "psychic"
     ],
@@ -1050,7 +1050,7 @@
   {
     "name": "Magearna",
     "number": "#801",
-    "image": "./src/imagens/magearna.png",
+    "image": "./assets/images/magearna.png",
     "types": [
       "steel",
       "fairy"
@@ -1064,7 +1064,7 @@
   {
     "name": "Marshadow",
     "number": "#802",
-    "image": "./src/imagens/marshadow.png",
+    "image": "./assets/images/marshadow.png",
     "types": [
       "fighting",
       "ghost"
@@ -1078,7 +1078,7 @@
   {
     "name": "Poipole",
     "number": "#803",
-    "image": "./src/imagens/poipole.png",
+    "image": "./assets/images/poipole.png",
     "types": [
       "poison"
     ],
@@ -1090,7 +1090,7 @@
   {
     "name": "Naganadel",
     "number": "#804",
-    "image": "./src/imagens/naganadel.png",
+    "image": "./assets/images/naganadel.png",
     "types": [
       "poison",
       "dragon"
@@ -1104,7 +1104,7 @@
   {
     "name": "Stakataka",
     "number": "#805",
-    "image": "./src/imagens/stakataka.png",
+    "image": "./assets/images/stakataka.png",
     "types": [
       "rock",
       "steel"
@@ -1118,7 +1118,7 @@
   {
     "name": "Blacephalon",
     "number": "#806",
-    "image": "./src/imagens/blacephalon.png",
+    "image": "./assets/images/blacephalon.png",
     "types": [
       "fire",
       "ghost"
@@ -1132,7 +1132,7 @@
   {
     "name": "Zeraora",
     "number": "#807",
-    "image": "./src/imagens/zeraora.png",
+    "image": "./assets/images/zeraora.png",
     "types": [
       "electric"
     ],
@@ -1144,7 +1144,7 @@
   {
     "name": "Meltan",
     "number": "#808",
-    "image": "./src/imagens/meltan.png",
+    "image": "./assets/images/meltan.png",
     "types": [
       "steel"
     ],
@@ -1156,7 +1156,7 @@
   {
     "name": "Melmetal",
     "number": "#809",
-    "image": "./src/imagens/melmetal.png",
+    "image": "./assets/images/melmetal.png",
     "types": [
       "steel"
     ],

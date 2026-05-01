@@ -2,7 +2,7 @@
   {
     "name": "Chespin",
     "number": "#650",
-    "image": "./src/imagens/chespin.png",
+    "image": "./assets/images/chespin.png",
     "types": [
       "grass"
     ],
@@ -14,7 +14,7 @@
   {
     "name": "Quilladin",
     "number": "#651",
-    "image": "./src/imagens/quilladin.png",
+    "image": "./assets/images/quilladin.png",
     "types": [
       "grass"
     ],
@@ -26,7 +26,7 @@
   {
     "name": "Chesnaught",
     "number": "#652",
-    "image": "./src/imagens/chesnaught.png",
+    "image": "./assets/images/chesnaught.png",
     "types": [
       "grass",
       "fighting"
@@ -40,7 +40,7 @@
   {
     "name": "Fennekin",
     "number": "#653",
-    "image": "./src/imagens/fennekin.png",
+    "image": "./assets/images/fennekin.png",
     "types": [
       "fire"
     ],
@@ -52,7 +52,7 @@
   {
     "name": "Braixen",
     "number": "#654",
-    "image": "./src/imagens/braixen.png",
+    "image": "./assets/images/braixen.png",
     "types": [
       "fire"
     ],
@@ -64,7 +64,7 @@
   {
     "name": "Delphox",
     "number": "#655",
-    "image": "./src/imagens/delphox.png",
+    "image": "./assets/images/delphox.png",
     "types": [
       "fire",
       "psychic"
@@ -78,7 +78,7 @@
   {
     "name": "Froakie",
     "number": "#656",
-    "image": "./src/imagens/froakie.png",
+    "image": "./assets/images/froakie.png",
     "types": [
       "water"
     ],
@@ -90,7 +90,7 @@
   {
     "name": "Frogadier",
     "number": "#657",
-    "image": "./src/imagens/frogadier.png",
+    "image": "./assets/images/frogadier.png",
     "types": [
       "water"
     ],
@@ -102,7 +102,7 @@
   {
     "name": "Greninja",
     "number": "#658",
-    "image": "./src/imagens/greninja.png",
+    "image": "./assets/images/greninja.png",
     "types": [
       "water",
       "dark"
@@ -116,7 +116,7 @@
   {
     "name": "Bunnelby",
     "number": "#659",
-    "image": "./src/imagens/bunnelby.png",
+    "image": "./assets/images/bunnelby.png",
     "types": [
       "normal"
     ],
@@ -128,7 +128,7 @@
   {
     "name": "Diggersby",
     "number": "#660",
-    "image": "./src/imagens/diggersby.png",
+    "image": "./assets/images/diggersby.png",
     "types": [
       "normal",
       "ground"
@@ -142,7 +142,7 @@
   {
     "name": "Fletchling",
     "number": "#661",
-    "image": "./src/imagens/fletchling.png",
+    "image": "./assets/images/fletchling.png",
     "types": [
       "normal",
       "flying"
@@ -156,7 +156,7 @@
   {
     "name": "Fletchinder",
     "number": "#662",
-    "image": "./src/imagens/fletchinder.png",
+    "image": "./assets/images/fletchinder.png",
     "types": [
       "fire",
       "flying"
@@ -170,7 +170,7 @@
   {
     "name": "Talonflame",
     "number": "#663",
-    "image": "./src/imagens/talonflame.png",
+    "image": "./assets/images/talonflame.png",
     "types": [
       "fire",
       "flying"
@@ -184,7 +184,7 @@
   {
     "name": "Scatterbug",
     "number": "#664",
-    "image": "./src/imagens/scatterbug.png",
+    "image": "./assets/images/scatterbug.png",
     "types": [
       "bug"
     ],
@@ -196,7 +196,7 @@
   {
     "name": "Spewpa",
     "number": "#665",
-    "image": "./src/imagens/spewpa.png",
+    "image": "./assets/images/spewpa.png",
     "types": [
       "bug"
     ],
@@ -208,7 +208,7 @@
   {
     "name": "Vivillon",
     "number": "#666",
-    "image": "./src/imagens/vivillon.png",
+    "image": "./assets/images/vivillon.png",
     "types": [
       "bug",
       "flying"
@@ -222,7 +222,7 @@
   {
     "name": "Litleo",
     "number": "#667",
-    "image": "./src/imagens/litleo.png",
+    "image": "./assets/images/litleo.png",
     "types": [
       "fire",
       "normal"
@@ -236,7 +236,7 @@
   {
     "name": "Pyroar",
     "number": "#668",
-    "image": "./src/imagens/pyroar.png",
+    "image": "./assets/images/pyroar.png",
     "types": [
       "fire",
       "normal"
@@ -250,7 +250,7 @@
   {
     "name": "Flabebe",
     "number": "#669",
-    "image": "./src/imagens/flabebe.png",
+    "image": "./assets/images/flabebe.png",
     "types": [
       "fairy"
     ],
@@ -262,7 +262,7 @@
   {
     "name": "Floette",
     "number": "#670",
-    "image": "./src/imagens/floette.png",
+    "image": "./assets/images/floette.png",
     "types": [
       "fairy"
     ],
@@ -274,7 +274,7 @@
   {
     "name": "Florges",
     "number": "#671",
-    "image": "./src/imagens/florges.png",
+    "image": "./assets/images/florges.png",
     "types": [
       "fairy"
     ],
@@ -286,7 +286,7 @@
   {
     "name": "Skiddo",
     "number": "#672",
-    "image": "./src/imagens/skiddo.png",
+    "image": "./assets/images/skiddo.png",
     "types": [
       "grass"
     ],
@@ -298,7 +298,7 @@
   {
     "name": "Gogoat",
     "number": "#673",
-    "image": "./src/imagens/gogoat.png",
+    "image": "./assets/images/gogoat.png",
     "types": [
       "grass"
     ],
@@ -310,7 +310,7 @@
   {
     "name": "Pancham",
     "number": "#674",
-    "image": "./src/imagens/pancham.png",
+    "image": "./assets/images/pancham.png",
     "types": [
       "fighting"
     ],
@@ -322,7 +322,7 @@
   {
     "name": "Pangoro",
     "number": "#675",
-    "image": "./src/imagens/pangoro.png",
+    "image": "./assets/images/pangoro.png",
     "types": [
       "fighting",
       "dark"
@@ -336,7 +336,7 @@
   {
     "name": "Furfrou",
     "number": "#676",
-    "image": "./src/imagens/furfrou.png",
+    "image": "./assets/images/furfrou.png",
     "types": [
       "normal"
     ],
@@ -348,7 +348,7 @@
   {
     "name": "Espurr",
     "number": "#677",
-    "image": "./src/imagens/espurr.png",
+    "image": "./assets/images/espurr.png",
     "types": [
       "psychic"
     ],
@@ -360,7 +360,7 @@
   {
     "name": "Meowstic Male",
     "number": "#678",
-    "image": "./src/imagens/meowstic male.png",
+    "image": "./assets/images/meowstic male.png",
     "types": [
       "psychic"
     ],
@@ -372,7 +372,7 @@
   {
     "name": "Honedge",
     "number": "#679",
-    "image": "./src/imagens/honedge.png",
+    "image": "./assets/images/honedge.png",
     "types": [
       "steel",
       "ghost"
@@ -386,7 +386,7 @@
   {
     "name": "Doublade",
     "number": "#680",
-    "image": "./src/imagens/doublade.png",
+    "image": "./assets/images/doublade.png",
     "types": [
       "steel",
       "ghost"
@@ -400,7 +400,7 @@
   {
     "name": "Aegislash Shield",
     "number": "#681",
-    "image": "./src/imagens/aegislash shield.png",
+    "image": "./assets/images/aegislash shield.png",
     "types": [
       "steel",
       "ghost"
@@ -414,7 +414,7 @@
   {
     "name": "Spritzee",
     "number": "#682",
-    "image": "./src/imagens/spritzee.png",
+    "image": "./assets/images/spritzee.png",
     "types": [
       "fairy"
     ],
@@ -426,7 +426,7 @@
   {
     "name": "Aromatisse",
     "number": "#683",
-    "image": "./src/imagens/aromatisse.png",
+    "image": "./assets/images/aromatisse.png",
     "types": [
       "fairy"
     ],
@@ -438,7 +438,7 @@
   {
     "name": "Swirlix",
     "number": "#684",
-    "image": "./src/imagens/swirlix.png",
+    "image": "./assets/images/swirlix.png",
     "types": [
       "fairy"
     ],
@@ -450,7 +450,7 @@
   {
     "name": "Slurpuff",
     "number": "#685",
-    "image": "./src/imagens/slurpuff.png",
+    "image": "./assets/images/slurpuff.png",
     "types": [
       "fairy"
     ],
@@ -462,7 +462,7 @@
   {
     "name": "Inkay",
     "number": "#686",
-    "image": "./src/imagens/inkay.png",
+    "image": "./assets/images/inkay.png",
     "types": [
       "dark",
       "psychic"
@@ -476,7 +476,7 @@
   {
     "name": "Malamar",
     "number": "#687",
-    "image": "./src/imagens/malamar.png",
+    "image": "./assets/images/malamar.png",
     "types": [
       "dark",
       "psychic"
@@ -490,7 +490,7 @@
   {
     "name": "Binacle",
     "number": "#688",
-    "image": "./src/imagens/binacle.png",
+    "image": "./assets/images/binacle.png",
     "types": [
       "rock",
       "water"
@@ -504,7 +504,7 @@
   {
     "name": "Barbaracle",
     "number": "#689",
-    "image": "./src/imagens/barbaracle.png",
+    "image": "./assets/images/barbaracle.png",
     "types": [
       "rock",
       "water"
@@ -518,7 +518,7 @@
   {
     "name": "Skrelp",
     "number": "#690",
-    "image": "./src/imagens/skrelp.png",
+    "image": "./assets/images/skrelp.png",
     "types": [
       "poison",
       "water"
@@ -532,7 +532,7 @@
   {
     "name": "Dragalge",
     "number": "#691",
-    "image": "./src/imagens/dragalge.png",
+    "image": "./assets/images/dragalge.png",
     "types": [
       "poison",
       "dragon"
@@ -546,7 +546,7 @@
   {
     "name": "Clauncher",
     "number": "#692",
-    "image": "./src/imagens/clauncher.png",
+    "image": "./assets/images/clauncher.png",
     "types": [
       "water"
     ],
@@ -558,7 +558,7 @@
   {
     "name": "Clawitzer",
     "number": "#693",
-    "image": "./src/imagens/clawitzer.png",
+    "image": "./assets/images/clawitzer.png",
     "types": [
       "water"
     ],
@@ -570,7 +570,7 @@
   {
     "name": "Helioptile",
     "number": "#694",
-    "image": "./src/imagens/helioptile.png",
+    "image": "./assets/images/helioptile.png",
     "types": [
       "electric",
       "normal"
@@ -584,7 +584,7 @@
   {
     "name": "Heliolisk",
     "number": "#695",
-    "image": "./src/imagens/heliolisk.png",
+    "image": "./assets/images/heliolisk.png",
     "types": [
       "electric",
       "normal"
@@ -598,7 +598,7 @@
   {
     "name": "Tyrunt",
     "number": "#696",
-    "image": "./src/imagens/tyrunt.png",
+    "image": "./assets/images/tyrunt.png",
     "types": [
       "rock",
       "dragon"
@@ -612,7 +612,7 @@
   {
     "name": "Tyrantrum",
     "number": "#697",
-    "image": "./src/imagens/tyrantrum.png",
+    "image": "./assets/images/tyrantrum.png",
     "types": [
       "rock",
       "dragon"
@@ -626,7 +626,7 @@
   {
     "name": "Amaura",
     "number": "#698",
-    "image": "./src/imagens/amaura.png",
+    "image": "./assets/images/amaura.png",
     "types": [
       "rock",
       "ice"
@@ -640,7 +640,7 @@
   {
     "name": "Aurorus",
     "number": "#699",
-    "image": "./src/imagens/aurorus.png",
+    "image": "./assets/images/aurorus.png",
     "types": [
       "rock",
       "ice"
@@ -654,7 +654,7 @@
   {
     "name": "Sylveon",
     "number": "#700",
-    "image": "./src/imagens/sylveon.png",
+    "image": "./assets/images/sylveon.png",
     "types": [
       "fairy"
     ],
@@ -666,7 +666,7 @@
   {
     "name": "Hawlucha",
     "number": "#701",
-    "image": "./src/imagens/hawlucha.png",
+    "image": "./assets/images/hawlucha.png",
     "types": [
       "fighting",
       "flying"
@@ -680,7 +680,7 @@
   {
     "name": "Dedenne",
     "number": "#702",
-    "image": "./src/imagens/dedenne.png",
+    "image": "./assets/images/dedenne.png",
     "types": [
       "electric",
       "fairy"
@@ -694,7 +694,7 @@
   {
     "name": "Carbink",
     "number": "#703",
-    "image": "./src/imagens/carbink.png",
+    "image": "./assets/images/carbink.png",
     "types": [
       "rock",
       "fairy"
@@ -708,7 +708,7 @@
   {
     "name": "Goomy",
     "number": "#704",
-    "image": "./src/imagens/goomy.png",
+    "image": "./assets/images/goomy.png",
     "types": [
       "dragon"
     ],
@@ -720,7 +720,7 @@
   {
     "name": "Sliggoo",
     "number": "#705",
-    "image": "./src/imagens/sliggoo.png",
+    "image": "./assets/images/sliggoo.png",
     "types": [
       "dragon"
     ],
@@ -732,7 +732,7 @@
   {
     "name": "Goodra",
     "number": "#706",
-    "image": "./src/imagens/goodra.png",
+    "image": "./assets/images/goodra.png",
     "types": [
       "dragon"
     ],
@@ -744,7 +744,7 @@
   {
     "name": "Klefki",
     "number": "#707",
-    "image": "./src/imagens/klefki.png",
+    "image": "./assets/images/klefki.png",
     "types": [
       "steel",
       "fairy"
@@ -758,7 +758,7 @@
   {
     "name": "Phantump",
     "number": "#708",
-    "image": "./src/imagens/phantump.png",
+    "image": "./assets/images/phantump.png",
     "types": [
       "ghost",
       "grass"
@@ -772,7 +772,7 @@
   {
     "name": "Trevenant",
     "number": "#709",
-    "image": "./src/imagens/trevenant.png",
+    "image": "./assets/images/trevenant.png",
     "types": [
       "ghost",
       "grass"
@@ -786,7 +786,7 @@
   {
     "name": "Pumpkaboo Average",
     "number": "#710",
-    "image": "./src/imagens/pumpkaboo average.png",
+    "image": "./assets/images/pumpkaboo average.png",
     "types": [
       "ghost",
       "grass"
@@ -800,7 +800,7 @@
   {
     "name": "Gourgeist Average",
     "number": "#711",
-    "image": "./src/imagens/gourgeist average.png",
+    "image": "./assets/images/gourgeist average.png",
     "types": [
       "ghost",
       "grass"
@@ -814,7 +814,7 @@
   {
     "name": "Bergmite",
     "number": "#712",
-    "image": "./src/imagens/bergmite.png",
+    "image": "./assets/images/bergmite.png",
     "types": [
       "ice"
     ],
@@ -826,7 +826,7 @@
   {
     "name": "Avalugg",
     "number": "#713",
-    "image": "./src/imagens/avalugg.png",
+    "image": "./assets/images/avalugg.png",
     "types": [
       "ice"
     ],
@@ -838,7 +838,7 @@
   {
     "name": "Noibat",
     "number": "#714",
-    "image": "./src/imagens/noibat.png",
+    "image": "./assets/images/noibat.png",
     "types": [
       "flying",
       "dragon"
@@ -852,7 +852,7 @@
   {
     "name": "Noivern",
     "number": "#715",
-    "image": "./src/imagens/noivern.png",
+    "image": "./assets/images/noivern.png",
     "types": [
       "flying",
       "dragon"
@@ -866,7 +866,7 @@
   {
     "name": "Xerneas",
     "number": "#716",
-    "image": "./src/imagens/xerneas.png",
+    "image": "./assets/images/xerneas.png",
     "types": [
       "fairy"
     ],
@@ -878,7 +878,7 @@
   {
     "name": "Yveltal",
     "number": "#717",
-    "image": "./src/imagens/yveltal.png",
+    "image": "./assets/images/yveltal.png",
     "types": [
       "dark",
       "flying"
@@ -892,7 +892,7 @@
   {
     "name": "Zygarde 50",
     "number": "#718",
-    "image": "./src/imagens/zygarde 50.png",
+    "image": "./assets/images/zygarde 50.png",
     "types": [
       "dragon",
       "ground"
@@ -906,7 +906,7 @@
   {
     "name": "Diancie",
     "number": "#719",
-    "image": "./src/imagens/diancie.png",
+    "image": "./assets/images/diancie.png",
     "types": [
       "rock",
       "fairy"
@@ -920,7 +920,7 @@
   {
     "name": "Hoopa",
     "number": "#720",
-    "image": "./src/imagens/hoopa.png",
+    "image": "./assets/images/hoopa.png",
     "types": [
       "psychic",
       "ghost"
@@ -934,7 +934,7 @@
   {
     "name": "Volcanion",
     "number": "#721",
-    "image": "./src/imagens/volcanion.png",
+    "image": "./assets/images/volcanion.png",
     "types": [
       "fire",
       "water"

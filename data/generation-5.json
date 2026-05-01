@@ -2,7 +2,7 @@
   {
     "name": "Victini",
     "number": "#494",
-    "image": "./src/imagens/victini.gif",
+    "image": "./assets/images/victini.gif",
     "types": [
       "psychic",
       "fire"
@@ -16,7 +16,7 @@
   {
     "name": "Snivy",
     "number": "#495",
-    "image": "./src/imagens/snivy.gif",
+    "image": "./assets/images/snivy.gif",
     "types": [
       "grass"
     ],
@@ -28,7 +28,7 @@
   {
     "name": "Servine",
     "number": "#496",
-    "image": "./src/imagens/servine.gif",
+    "image": "./assets/images/servine.gif",
     "types": [
       "grass"
     ],
@@ -40,7 +40,7 @@
   {
     "name": "Serperior",
     "number": "#497",
-    "image": "./src/imagens/serperior.gif",
+    "image": "./assets/images/serperior.gif",
     "types": [
       "grass"
     ],
@@ -52,7 +52,7 @@
   {
     "name": "Tepig",
     "number": "#498",
-    "image": "./src/imagens/tepig.gif",
+    "image": "./assets/images/tepig.gif",
     "types": [
       "fire"
     ],
@@ -64,7 +64,7 @@
   {
     "name": "Pignite",
     "number": "#499",
-    "image": "./src/imagens/pignite.gif",
+    "image": "./assets/images/pignite.gif",
     "types": [
       "fire",
       "fighting"
@@ -78,7 +78,7 @@
   {
     "name": "Emboar",
     "number": "#500",
-    "image": "./src/imagens/emboar.gif",
+    "image": "./assets/images/emboar.gif",
     "types": [
       "fire",
       "fighting"
@@ -92,7 +92,7 @@
   {
     "name": "Oshawott",
     "number": "#501",
-    "image": "./src/imagens/oshawott.gif",
+    "image": "./assets/images/oshawott.gif",
     "types": [
       "water"
     ],
@@ -104,7 +104,7 @@
   {
     "name": "Dewott",
     "number": "#502",
-    "image": "./src/imagens/dewott.gif",
+    "image": "./assets/images/dewott.gif",
     "types": [
       "water"
     ],
@@ -116,7 +116,7 @@
   {
     "name": "Samurott",
     "number": "#503",
-    "image": "./src/imagens/samurott.gif",
+    "image": "./assets/images/samurott.gif",
     "types": [
       "water"
     ],
@@ -128,7 +128,7 @@
   {
     "name": "Patrat",
     "number": "#504",
-    "image": "./src/imagens/patrat.gif",
+    "image": "./assets/images/patrat.gif",
     "types": [
       "normal"
     ],
@@ -140,7 +140,7 @@
   {
     "name": "Watchog",
     "number": "#505",
-    "image": "./src/imagens/watchog.gif",
+    "image": "./assets/images/watchog.gif",
     "types": [
       "normal"
     ],
@@ -152,7 +152,7 @@
   {
     "name": "Lillipup",
     "number": "#506",
-    "image": "./src/imagens/lillipup.gif",
+    "image": "./assets/images/lillipup.gif",
     "types": [
       "normal"
     ],
@@ -164,7 +164,7 @@
   {
     "name": "Herdier",
     "number": "#507",
-    "image": "./src/imagens/herdier.gif",
+    "image": "./assets/images/herdier.gif",
     "types": [
       "normal"
     ],
@@ -176,7 +176,7 @@
   {
     "name": "Stoutland",
     "number": "#508",
-    "image": "./src/imagens/stoutland.gif",
+    "image": "./assets/images/stoutland.gif",
     "types": [
       "normal"
     ],
@@ -188,7 +188,7 @@
   {
     "name": "Purrloin",
     "number": "#509",
-    "image": "./src/imagens/purrloin.gif",
+    "image": "./assets/images/purrloin.gif",
     "types": [
       "dark"
     ],
@@ -200,7 +200,7 @@
   {
     "name": "Liepard",
     "number": "#510",
-    "image": "./src/imagens/liepard.gif",
+    "image": "./assets/images/liepard.gif",
     "types": [
       "dark"
     ],
@@ -212,7 +212,7 @@
   {
     "name": "Pansage",
     "number": "#511",
-    "image": "./src/imagens/pansage.gif",
+    "image": "./assets/images/pansage.gif",
     "types": [
       "grass"
     ],
@@ -224,7 +224,7 @@
   {
     "name": "Simisage",
     "number": "#512",
-    "image": "./src/imagens/simisage.gif",
+    "image": "./assets/images/simisage.gif",
     "types": [
       "grass"
     ],
@@ -236,7 +236,7 @@
   {
     "name": "Pansear",
     "number": "#513",
-    "image": "./src/imagens/pansear.gif",
+    "image": "./assets/images/pansear.gif",
     "types": [
       "fire"
     ],
@@ -248,7 +248,7 @@
   {
     "name": "Simisear",
     "number": "#514",
-    "image": "./src/imagens/simisear.gif",
+    "image": "./assets/images/simisear.gif",
     "types": [
       "fire"
     ],
@@ -260,7 +260,7 @@
   {
     "name": "Panpour",
     "number": "#515",
-    "image": "./src/imagens/panpour.gif",
+    "image": "./assets/images/panpour.gif",
     "types": [
       "water"
     ],
@@ -272,7 +272,7 @@
   {
     "name": "Simipour",
     "number": "#516",
-    "image": "./src/imagens/simipour.gif",
+    "image": "./assets/images/simipour.gif",
     "types": [
       "water"
     ],
@@ -284,7 +284,7 @@
   {
     "name": "Munna",
     "number": "#517",
-    "image": "./src/imagens/munna.gif",
+    "image": "./assets/images/munna.gif",
     "types": [
       "psychic"
     ],
@@ -296,7 +296,7 @@
   {
     "name": "Musharna",
     "number": "#518",
-    "image": "./src/imagens/musharna.gif",
+    "image": "./assets/images/musharna.gif",
     "types": [
       "psychic"
     ],
@@ -308,7 +308,7 @@
   {
     "name": "Pidove",
     "number": "#519",
-    "image": "./src/imagens/pidove.gif",
+    "image": "./assets/images/pidove.gif",
     "types": [
       "normal",
       "flying"
@@ -322,7 +322,7 @@
   {
     "name": "Tranquill",
     "number": "#520",
-    "image": "./src/imagens/tranquill.gif",
+    "image": "./assets/images/tranquill.gif",
     "types": [
       "normal",
       "flying"
@@ -336,7 +336,7 @@
   {
     "name": "Unfezant",
     "number": "#521",
-    "image": "./src/imagens/unfezant.gif",
+    "image": "./assets/images/unfezant.gif",
     "types": [
       "normal",
       "flying"
@@ -350,7 +350,7 @@
   {
     "name": "Blitzle",
     "number": "#522",
-    "image": "./src/imagens/blitzle.gif",
+    "image": "./assets/images/blitzle.gif",
     "types": [
       "electric"
     ],
@@ -362,7 +362,7 @@
   {
     "name": "Zebstrika",
     "number": "#523",
-    "image": "./src/imagens/zebstrika.gif",
+    "image": "./assets/images/zebstrika.gif",
     "types": [
       "electric"
     ],
@@ -374,7 +374,7 @@
   {
     "name": "Roggenrola",
     "number": "#524",
-    "image": "./src/imagens/roggenrola.gif",
+    "image": "./assets/images/roggenrola.gif",
     "types": [
       "rock"
     ],
@@ -386,7 +386,7 @@
   {
     "name": "Boldore",
     "number": "#525",
-    "image": "./src/imagens/boldore.gif",
+    "image": "./assets/images/boldore.gif",
     "types": [
       "rock"
     ],
@@ -398,7 +398,7 @@
   {
     "name": "Gigalith",
     "number": "#526",
-    "image": "./src/imagens/gigalith.gif",
+    "image": "./assets/images/gigalith.gif",
     "types": [
       "rock"
     ],
@@ -410,7 +410,7 @@
   {
     "name": "Woobat",
     "number": "#527",
-    "image": "./src/imagens/woobat.gif",
+    "image": "./assets/images/woobat.gif",
     "types": [
       "psychic",
       "flying"
@@ -424,7 +424,7 @@
   {
     "name": "Swoobat",
     "number": "#528",
-    "image": "./src/imagens/swoobat.gif",
+    "image": "./assets/images/swoobat.gif",
     "types": [
       "psychic",
       "flying"
@@ -438,7 +438,7 @@
   {
     "name": "Drilbur",
     "number": "#529",
-    "image": "./src/imagens/drilbur.gif",
+    "image": "./assets/images/drilbur.gif",
     "types": [
       "ground"
     ],
@@ -450,7 +450,7 @@
   {
     "name": "Excadrill",
     "number": "#530",
-    "image": "./src/imagens/excadrill.gif",
+    "image": "./assets/images/excadrill.gif",
     "types": [
       "ground",
       "steel"
@@ -464,7 +464,7 @@
   {
     "name": "Audino",
     "number": "#531",
-    "image": "./src/imagens/audino.gif",
+    "image": "./assets/images/audino.gif",
     "types": [
       "normal"
     ],
@@ -476,7 +476,7 @@
   {
     "name": "Timburr",
     "number": "#532",
-    "image": "./src/imagens/timburr.gif",
+    "image": "./assets/images/timburr.gif",
     "types": [
       "fighting"
     ],
@@ -488,7 +488,7 @@
   {
     "name": "Gurdurr",
     "number": "#533",
-    "image": "./src/imagens/gurdurr.gif",
+    "image": "./assets/images/gurdurr.gif",
     "types": [
       "fighting"
     ],
@@ -500,7 +500,7 @@
   {
     "name": "Conkeldurr",
     "number": "#534",
-    "image": "./src/imagens/conkeldurr.gif",
+    "image": "./assets/images/conkeldurr.gif",
     "types": [
       "fighting"
     ],
@@ -512,7 +512,7 @@
   {
     "name": "Tympole",
     "number": "#535",
-    "image": "./src/imagens/tympole.gif",
+    "image": "./assets/images/tympole.gif",
     "types": [
       "water"
     ],
@@ -524,7 +524,7 @@
   {
     "name": "Palpitoad",
     "number": "#536",
-    "image": "./src/imagens/palpitoad.gif",
+    "image": "./assets/images/palpitoad.gif",
     "types": [
       "water",
       "ground"
@@ -538,7 +538,7 @@
   {
     "name": "Seismitoad",
     "number": "#537",
-    "image": "./src/imagens/seismitoad.gif",
+    "image": "./assets/images/seismitoad.gif",
     "types": [
       "water",
       "ground"
@@ -552,7 +552,7 @@
   {
     "name": "Throh",
     "number": "#538",
-    "image": "./src/imagens/throh.gif",
+    "image": "./assets/images/throh.gif",
     "types": [
       "fighting"
     ],
@@ -564,7 +564,7 @@
   {
     "name": "Sawk",
     "number": "#539",
-    "image": "./src/imagens/sawk.gif",
+    "image": "./assets/images/sawk.gif",
     "types": [
       "fighting"
     ],
@@ -576,7 +576,7 @@
   {
     "name": "Sewaddle",
     "number": "#540",
-    "image": "./src/imagens/sewaddle.gif",
+    "image": "./assets/images/sewaddle.gif",
     "types": [
       "bug",
       "grass"
@@ -590,7 +590,7 @@
   {
     "name": "Swadloon",
     "number": "#541",
-    "image": "./src/imagens/swadloon.gif",
+    "image": "./assets/images/swadloon.gif",
     "types": [
       "bug",
       "grass"
@@ -604,7 +604,7 @@
   {
     "name": "Leavanny",
     "number": "#542",
-    "image": "./src/imagens/leavanny.gif",
+    "image": "./assets/images/leavanny.gif",
     "types": [
       "bug",
       "grass"
@@ -618,7 +618,7 @@
   {
     "name": "Venipede",
     "number": "#543",
-    "image": "./src/imagens/venipede.gif",
+    "image": "./assets/images/venipede.gif",
     "types": [
       "bug",
       "poison"
@@ -632,7 +632,7 @@
   {
     "name": "Whirlipede",
     "number": "#544",
-    "image": "./src/imagens/whirlipede.gif",
+    "image": "./assets/images/whirlipede.gif",
     "types": [
       "bug",
       "poison"
@@ -646,7 +646,7 @@
   {
     "name": "Scolipede",
     "number": "#545",
-    "image": "./src/imagens/scolipede.gif",
+    "image": "./assets/images/scolipede.gif",
     "types": [
       "bug",
       "poison"
@@ -660,7 +660,7 @@
   {
     "name": "Cottonee",
     "number": "#546",
-    "image": "./src/imagens/cottonee.gif",
+    "image": "./assets/images/cottonee.gif",
     "types": [
       "grass",
       "fairy"
@@ -674,7 +674,7 @@
   {
     "name": "Whimsicott",
     "number": "#547",
-    "image": "./src/imagens/whimsicott.gif",
+    "image": "./assets/images/whimsicott.gif",
     "types": [
       "grass",
       "fairy"
@@ -688,7 +688,7 @@
   {
     "name": "Petilil",
     "number": "#548",
-    "image": "./src/imagens/petilil.gif",
+    "image": "./assets/images/petilil.gif",
     "types": [
       "grass"
     ],
@@ -700,7 +700,7 @@
   {
     "name": "Lilligant",
     "number": "#549",
-    "image": "./src/imagens/lilligant.gif",
+    "image": "./assets/images/lilligant.gif",
     "types": [
       "grass"
     ],
@@ -712,7 +712,7 @@
   {
     "name": "Basculin Red Striped",
     "number": "#550",
-    "image": "./src/imagens/basculin red striped.gif",
+    "image": "./assets/images/basculin red striped.gif",
     "types": [
       "water"
     ],
@@ -724,7 +724,7 @@
   {
     "name": "Sandile",
     "number": "#551",
-    "image": "./src/imagens/sandile.gif",
+    "image": "./assets/images/sandile.gif",
     "types": [
       "ground",
       "dark"
@@ -738,7 +738,7 @@
   {
     "name": "Krokorok",
     "number": "#552",
-    "image": "./src/imagens/krokorok.gif",
+    "image": "./assets/images/krokorok.gif",
     "types": [
       "ground",
       "dark"
@@ -752,7 +752,7 @@
   {
     "name": "Krookodile",
     "number": "#553",
-    "image": "./src/imagens/krookodile.gif",
+    "image": "./assets/images/krookodile.gif",
     "types": [
       "ground",
       "dark"
@@ -766,7 +766,7 @@
   {
     "name": "Darumaka",
     "number": "#554",
-    "image": "./src/imagens/darumaka.gif",
+    "image": "./assets/images/darumaka.gif",
     "types": [
       "fire"
     ],
@@ -778,7 +778,7 @@
   {
     "name": "Darmanitan Standard",
     "number": "#555",
-    "image": "./src/imagens/darmanitan standard.gif",
+    "image": "./assets/images/darmanitan standard.gif",
     "types": [
       "fire"
     ],
@@ -790,7 +790,7 @@
   {
     "name": "Maractus",
     "number": "#556",
-    "image": "./src/imagens/maractus.gif",
+    "image": "./assets/images/maractus.gif",
     "types": [
       "grass"
     ],
@@ -802,7 +802,7 @@
   {
     "name": "Dwebble",
     "number": "#557",
-    "image": "./src/imagens/dwebble.gif",
+    "image": "./assets/images/dwebble.gif",
     "types": [
       "bug",
       "rock"
@@ -816,7 +816,7 @@
   {
     "name": "Crustle",
     "number": "#558",
-    "image": "./src/imagens/crustle.gif",
+    "image": "./assets/images/crustle.gif",
     "types": [
       "bug",
       "rock"
@@ -830,7 +830,7 @@
   {
     "name": "Scraggy",
     "number": "#559",
-    "image": "./src/imagens/scraggy.gif",
+    "image": "./assets/images/scraggy.gif",
     "types": [
       "dark",
       "fighting"
@@ -844,7 +844,7 @@
   {
     "name": "Scrafty",
     "number": "#560",
-    "image": "./src/imagens/scrafty.gif",
+    "image": "./assets/images/scrafty.gif",
     "types": [
       "dark",
       "fighting"
@@ -858,7 +858,7 @@
   {
     "name": "Sigilyph",
     "number": "#561",
-    "image": "./src/imagens/sigilyph.gif",
+    "image": "./assets/images/sigilyph.gif",
     "types": [
       "psychic",
       "flying"
@@ -872,7 +872,7 @@
   {
     "name": "Yamask",
     "number": "#562",
-    "image": "./src/imagens/yamask.gif",
+    "image": "./assets/images/yamask.gif",
     "types": [
       "ghost"
     ],
@@ -884,7 +884,7 @@
   {
     "name": "Cofagrigus",
     "number": "#563",
-    "image": "./src/imagens/cofagrigus.gif",
+    "image": "./assets/images/cofagrigus.gif",
     "types": [
       "ghost"
     ],
@@ -896,7 +896,7 @@
   {
     "name": "Tirtouga",
     "number": "#564",
-    "image": "./src/imagens/tirtouga.gif",
+    "image": "./assets/images/tirtouga.gif",
     "types": [
       "water",
       "rock"
@@ -910,7 +910,7 @@
   {
     "name": "Carracosta",
     "number": "#565",
-    "image": "./src/imagens/carracosta.gif",
+    "image": "./assets/images/carracosta.gif",
     "types": [
       "water",
       "rock"
@@ -924,7 +924,7 @@
   {
     "name": "Archen",
     "number": "#566",
-    "image": "./src/imagens/archen.gif",
+    "image": "./assets/images/archen.gif",
     "types": [
       "rock",
       "flying"
@@ -938,7 +938,7 @@
   {
     "name": "Archeops",
     "number": "#567",
-    "image": "./src/imagens/archeops.gif",
+    "image": "./assets/images/archeops.gif",
     "types": [
       "rock",
       "flying"
@@ -952,7 +952,7 @@
   {
     "name": "Trubbish",
     "number": "#568",
-    "image": "./src/imagens/trubbish.gif",
+    "image": "./assets/images/trubbish.gif",
     "types": [
       "poison"
     ],
@@ -964,7 +964,7 @@
   {
     "name": "Garbodor",
     "number": "#569",
-    "image": "./src/imagens/garbodor.gif",
+    "image": "./assets/images/garbodor.gif",
     "types": [
       "poison"
     ],
@@ -976,7 +976,7 @@
   {
     "name": "Zorua",
     "number": "#570",
-    "image": "./src/imagens/zorua.gif",
+    "image": "./assets/images/zorua.gif",
     "types": [
       "dark"
     ],
@@ -988,7 +988,7 @@
   {
     "name": "Zoroark",
     "number": "#571",
-    "image": "./src/imagens/zoroark.gif",
+    "image": "./assets/images/zoroark.gif",
     "types": [
       "dark"
     ],
@@ -1000,7 +1000,7 @@
   {
     "name": "Minccino",
     "number": "#572",
-    "image": "./src/imagens/minccino.gif",
+    "image": "./assets/images/minccino.gif",
     "types": [
       "normal"
     ],
@@ -1012,7 +1012,7 @@
   {
     "name": "Cinccino",
     "number": "#573",
-    "image": "./src/imagens/cinccino.gif",
+    "image": "./assets/images/cinccino.gif",
     "types": [
       "normal"
     ],
@@ -1024,7 +1024,7 @@
   {
     "name": "Gothita",
     "number": "#574",
-    "image": "./src/imagens/gothita.gif",
+    "image": "./assets/images/gothita.gif",
     "types": [
       "psychic"
     ],
@@ -1036,7 +1036,7 @@
   {
     "name": "Gothorita",
     "number": "#575",
-    "image": "./src/imagens/gothorita.gif",
+    "image": "./assets/images/gothorita.gif",
     "types": [
       "psychic"
     ],
@@ -1048,7 +1048,7 @@
   {
     "name": "Gothitelle",
     "number": "#576",
-    "image": "./src/imagens/gothitelle.gif",
+    "image": "./assets/images/gothitelle.gif",
     "types": [
       "psychic"
     ],
@@ -1060,7 +1060,7 @@
   {
     "name": "Solosis",
     "number": "#577",
-    "image": "./src/imagens/solosis.gif",
+    "image": "./assets/images/solosis.gif",
     "types": [
       "psychic"
     ],
@@ -1072,7 +1072,7 @@
   {
     "name": "Duosion",
     "number": "#578",
-    "image": "./src/imagens/duosion.gif",
+    "image": "./assets/images/duosion.gif",
     "types": [
       "psychic"
     ],
@@ -1084,7 +1084,7 @@
   {
     "name": "Reuniclus",
     "number": "#579",
-    "image": "./src/imagens/reuniclus.gif",
+    "image": "./assets/images/reuniclus.gif",
     "types": [
       "psychic"
     ],
@@ -1096,7 +1096,7 @@
   {
     "name": "Ducklett",
     "number": "#580",
-    "image": "./src/imagens/ducklett.gif",
+    "image": "./assets/images/ducklett.gif",
     "types": [
       "water",
       "flying"
@@ -1110,7 +1110,7 @@
   {
     "name": "Swanna",
     "number": "#581",
-    "image": "./src/imagens/swanna.gif",
+    "image": "./assets/images/swanna.gif",
     "types": [
       "water",
       "flying"
@@ -1124,7 +1124,7 @@
   {
     "name": "Vanillite",
     "number": "#582",
-    "image": "./src/imagens/vanillite.gif",
+    "image": "./assets/images/vanillite.gif",
     "types": [
       "ice"
     ],
@@ -1136,7 +1136,7 @@
   {
     "name": "Vanillish",
     "number": "#583",
-    "image": "./src/imagens/vanillish.gif",
+    "image": "./assets/images/vanillish.gif",
     "types": [
       "ice"
     ],
@@ -1148,7 +1148,7 @@
   {
     "name": "Vanilluxe",
     "number": "#584",
-    "image": "./src/imagens/vanilluxe.gif",
+    "image": "./assets/images/vanilluxe.gif",
     "types": [
       "ice"
     ],
@@ -1160,7 +1160,7 @@
   {
     "name": "Deerling",
     "number": "#585",
-    "image": "./src/imagens/deerling.gif",
+    "image": "./assets/images/deerling.gif",
     "types": [
       "normal",
       "grass"
@@ -1174,7 +1174,7 @@
   {
     "name": "Sawsbuck",
     "number": "#586",
-    "image": "./src/imagens/sawsbuck.gif",
+    "image": "./assets/images/sawsbuck.gif",
     "types": [
       "normal",
       "grass"
@@ -1188,7 +1188,7 @@
   {
     "name": "Emolga",
     "number": "#587",
-    "image": "./src/imagens/emolga.gif",
+    "image": "./assets/images/emolga.gif",
     "types": [
       "electric",
       "flying"
@@ -1202,7 +1202,7 @@
   {
     "name": "Karrablast",
     "number": "#588",
-    "image": "./src/imagens/karrablast.gif",
+    "image": "./assets/images/karrablast.gif",
     "types": [
       "bug"
     ],
@@ -1214,7 +1214,7 @@
   {
     "name": "Escavalier",
     "number": "#589",
-    "image": "./src/imagens/escavalier.gif",
+    "image": "./assets/images/escavalier.gif",
     "types": [
       "bug",
       "steel"
@@ -1228,7 +1228,7 @@
   {
     "name": "Foongus",
     "number": "#590",
-    "image": "./src/imagens/foongus.gif",
+    "image": "./assets/images/foongus.gif",
     "types": [
       "grass",
       "poison"
@@ -1242,7 +1242,7 @@
   {
     "name": "Amoonguss",
     "number": "#591",
-    "image": "./src/imagens/amoonguss.gif",
+    "image": "./assets/images/amoonguss.gif",
     "types": [
       "grass",
       "poison"
@@ -1256,7 +1256,7 @@
   {
     "name": "Frillish",
     "number": "#592",
-    "image": "./src/imagens/frillish.gif",
+    "image": "./assets/images/frillish.gif",
     "types": [
       "water",
       "ghost"
@@ -1270,7 +1270,7 @@
   {
     "name": "Jellicent",
     "number": "#593",
-    "image": "./src/imagens/jellicent.gif",
+    "image": "./assets/images/jellicent.gif",
     "types": [
       "water",
       "ghost"
@@ -1284,7 +1284,7 @@
   {
     "name": "Alomomola",
     "number": "#594",
-    "image": "./src/imagens/alomomola.gif",
+    "image": "./assets/images/alomomola.gif",
     "types": [
       "water"
     ],
@@ -1296,7 +1296,7 @@
   {
     "name": "Joltik",
     "number": "#595",
-    "image": "./src/imagens/joltik.gif",
+    "image": "./assets/images/joltik.gif",
     "types": [
       "bug",
       "electric"
@@ -1310,7 +1310,7 @@
   {
     "name": "Galvantula",
     "number": "#596",
-    "image": "./src/imagens/galvantula.gif",
+    "image": "./assets/images/galvantula.gif",
     "types": [
       "bug",
       "electric"
@@ -1324,7 +1324,7 @@
   {
     "name": "Ferroseed",
     "number": "#597",
-    "image": "./src/imagens/ferroseed.gif",
+    "image": "./assets/images/ferroseed.gif",
     "types": [
       "grass",
       "steel"
@@ -1338,7 +1338,7 @@
   {
     "name": "Ferrothorn",
     "number": "#598",
-    "image": "./src/imagens/ferrothorn.gif",
+    "image": "./assets/images/ferrothorn.gif",
     "types": [
       "grass",
       "steel"
@@ -1352,7 +1352,7 @@
   {
     "name": "Klink",
     "number": "#599",
-    "image": "./src/imagens/klink.gif",
+    "image": "./assets/images/klink.gif",
     "types": [
       "steel"
     ],
@@ -1364,7 +1364,7 @@
   {
     "name": "Klang",
     "number": "#600",
-    "image": "./src/imagens/klang.gif",
+    "image": "./assets/images/klang.gif",
     "types": [
       "steel"
     ],
@@ -1376,7 +1376,7 @@
   {
     "name": "Klinklang",
     "number": "#601",
-    "image": "./src/imagens/klinklang.gif",
+    "image": "./assets/images/klinklang.gif",
     "types": [
       "steel"
     ],
@@ -1388,7 +1388,7 @@
   {
     "name": "Tynamo",
     "number": "#602",
-    "image": "./src/imagens/tynamo.gif",
+    "image": "./assets/images/tynamo.gif",
     "types": [
       "electric"
     ],
@@ -1400,7 +1400,7 @@
   {
     "name": "Eelektrik",
     "number": "#603",
-    "image": "./src/imagens/eelektrik.gif",
+    "image": "./assets/images/eelektrik.gif",
     "types": [
       "electric"
     ],
@@ -1412,7 +1412,7 @@
   {
     "name": "Eelektross",
     "number": "#604",
-    "image": "./src/imagens/eelektross.gif",
+    "image": "./assets/images/eelektross.gif",
     "types": [
       "electric"
     ],
@@ -1424,7 +1424,7 @@
   {
     "name": "Elgyem",
     "number": "#605",
-    "image": "./src/imagens/elgyem.gif",
+    "image": "./assets/images/elgyem.gif",
     "types": [
       "psychic"
     ],
@@ -1436,7 +1436,7 @@
   {
     "name": "Beheeyem",
     "number": "#606",
-    "image": "./src/imagens/beheeyem.gif",
+    "image": "./assets/images/beheeyem.gif",
     "types": [
       "psychic"
     ],
@@ -1448,7 +1448,7 @@
   {
     "name": "Litwick",
     "number": "#607",
-    "image": "./src/imagens/litwick.gif",
+    "image": "./assets/images/litwick.gif",
     "types": [
       "ghost",
       "fire"
@@ -1462,7 +1462,7 @@
   {
     "name": "Lampent",
     "number": "#608",
-    "image": "./src/imagens/lampent.gif",
+    "image": "./assets/images/lampent.gif",
     "types": [
       "ghost",
       "fire"
@@ -1476,7 +1476,7 @@
   {
     "name": "Chandelure",
     "number": "#609",
-    "image": "./src/imagens/chandelure.gif",
+    "image": "./assets/images/chandelure.gif",
     "types": [
       "ghost",
       "fire"
@@ -1490,7 +1490,7 @@
   {
     "name": "Axew",
     "number": "#610",
-    "image": "./src/imagens/axew.gif",
+    "image": "./assets/images/axew.gif",
     "types": [
       "dragon"
     ],
@@ -1502,7 +1502,7 @@
   {
     "name": "Fraxure",
     "number": "#611",
-    "image": "./src/imagens/fraxure.gif",
+    "image": "./assets/images/fraxure.gif",
     "types": [
       "dragon"
     ],
@@ -1514,7 +1514,7 @@
   {
     "name": "Haxorus",
     "number": "#612",
-    "image": "./src/imagens/haxorus.gif",
+    "image": "./assets/images/haxorus.gif",
     "types": [
       "dragon"
     ],
@@ -1526,7 +1526,7 @@
   {
     "name": "Cubchoo",
     "number": "#613",
-    "image": "./src/imagens/cubchoo.gif",
+    "image": "./assets/images/cubchoo.gif",
     "types": [
       "ice"
     ],
@@ -1538,7 +1538,7 @@
   {
     "name": "Beartic",
     "number": "#614",
-    "image": "./src/imagens/beartic.gif",
+    "image": "./assets/images/beartic.gif",
     "types": [
       "ice"
     ],
@@ -1550,7 +1550,7 @@
   {
     "name": "Cryogonal",
     "number": "#615",
-    "image": "./src/imagens/cryogonal.gif",
+    "image": "./assets/images/cryogonal.gif",
     "types": [
       "ice"
     ],
@@ -1562,7 +1562,7 @@
   {
     "name": "Shelmet",
     "number": "#616",
-    "image": "./src/imagens/shelmet.gif",
+    "image": "./assets/images/shelmet.gif",
     "types": [
       "bug"
     ],
@@ -1574,7 +1574,7 @@
   {
     "name": "Accelgor",
     "number": "#617",
-    "image": "./src/imagens/accelgor.gif",
+    "image": "./assets/images/accelgor.gif",
     "types": [
       "bug"
     ],
@@ -1586,7 +1586,7 @@
   {
     "name": "Stunfisk",
     "number": "#618",
-    "image": "./src/imagens/stunfisk.gif",
+    "image": "./assets/images/stunfisk.gif",
     "types": [
       "ground",
       "electric"
@@ -1600,7 +1600,7 @@
   {
     "name": "Mienfoo",
     "number": "#619",
-    "image": "./src/imagens/mienfoo.gif",
+    "image": "./assets/images/mienfoo.gif",
     "types": [
       "fighting"
     ],
@@ -1612,7 +1612,7 @@
   {
     "name": "Mienshao",
     "number": "#620",
-    "image": "./src/imagens/mienshao.gif",
+    "image": "./assets/images/mienshao.gif",
     "types": [
       "fighting"
     ],
@@ -1624,7 +1624,7 @@
   {
     "name": "Druddigon",
     "number": "#621",
-    "image": "./src/imagens/druddigon.gif",
+    "image": "./assets/images/druddigon.gif",
     "types": [
       "dragon"
     ],
@@ -1636,7 +1636,7 @@
   {
     "name": "Golett",
     "number": "#622",
-    "image": "./src/imagens/golett.gif",
+    "image": "./assets/images/golett.gif",
     "types": [
       "ground",
       "ghost"
@@ -1650,7 +1650,7 @@
   {
     "name": "Golurk",
     "number": "#623",
-    "image": "./src/imagens/golurk.gif",
+    "image": "./assets/images/golurk.gif",
     "types": [
       "ground",
       "ghost"
@@ -1664,7 +1664,7 @@
   {
     "name": "Pawniard",
     "number": "#624",
-    "image": "./src/imagens/pawniard.gif",
+    "image": "./assets/images/pawniard.gif",
     "types": [
       "dark",
       "steel"
@@ -1678,7 +1678,7 @@
   {
     "name": "Bisharp",
     "number": "#625",
-    "image": "./src/imagens/bisharp.gif",
+    "image": "./assets/images/bisharp.gif",
     "types": [
       "dark",
       "steel"
@@ -1692,7 +1692,7 @@
   {
     "name": "Bouffalant",
     "number": "#626",
-    "image": "./src/imagens/bouffalant.gif",
+    "image": "./assets/images/bouffalant.gif",
     "types": [
       "normal"
     ],
@@ -1704,7 +1704,7 @@
   {
     "name": "Rufflet",
     "number": "#627",
-    "image": "./src/imagens/rufflet.gif",
+    "image": "./assets/images/rufflet.gif",
     "types": [
       "normal",
       "flying"
@@ -1718,7 +1718,7 @@
   {
     "name": "Braviary",
     "number": "#628",
-    "image": "./src/imagens/braviary.gif",
+    "image": "./assets/images/braviary.gif",
     "types": [
       "normal",
       "flying"
@@ -1732,7 +1732,7 @@
   {
     "name": "Vullaby",
     "number": "#629",
-    "image": "./src/imagens/vullaby.gif",
+    "image": "./assets/images/vullaby.gif",
     "types": [
       "dark",
       "flying"
@@ -1746,7 +1746,7 @@
   {
     "name": "Mandibuzz",
     "number": "#630",
-    "image": "./src/imagens/mandibuzz.gif",
+    "image": "./assets/images/mandibuzz.gif",
     "types": [
       "dark",
       "flying"
@@ -1760,7 +1760,7 @@
   {
     "name": "Heatmor",
     "number": "#631",
-    "image": "./src/imagens/heatmor.gif",
+    "image": "./assets/images/heatmor.gif",
     "types": [
       "fire"
     ],
@@ -1772,7 +1772,7 @@
   {
     "name": "Durant",
     "number": "#632",
-    "image": "./src/imagens/durant.gif",
+    "image": "./assets/images/durant.gif",
     "types": [
       "bug",
       "steel"
@@ -1786,7 +1786,7 @@
   {
     "name": "Deino",
     "number": "#633",
-    "image": "./src/imagens/deino.gif",
+    "image": "./assets/images/deino.gif",
     "types": [
       "dark",
       "dragon"
@@ -1800,7 +1800,7 @@
   {
     "name": "Zweilous",
     "number": "#634",
-    "image": "./src/imagens/zweilous.gif",
+    "image": "./assets/images/zweilous.gif",
     "types": [
       "dark",
       "dragon"
@@ -1814,7 +1814,7 @@
   {
     "name": "Hydreigon",
     "number": "#635",
-    "image": "./src/imagens/hydreigon.gif",
+    "image": "./assets/images/hydreigon.gif",
     "types": [
       "dark",
       "dragon"
@@ -1828,7 +1828,7 @@
   {
     "name": "Larvesta",
     "number": "#636",
-    "image": "./src/imagens/larvesta.gif",
+    "image": "./assets/images/larvesta.gif",
     "types": [
       "bug",
       "fire"
@@ -1842,7 +1842,7 @@
   {
     "name": "Volcarona",
     "number": "#637",
-    "image": "./src/imagens/volcarona.gif",
+    "image": "./assets/images/volcarona.gif",
     "types": [
       "bug",
       "fire"
@@ -1856,7 +1856,7 @@
   {
     "name": "Cobalion",
     "number": "#638",
-    "image": "./src/imagens/cobalion.gif",
+    "image": "./assets/images/cobalion.gif",
     "types": [
       "steel",
       "fighting"
@@ -1870,7 +1870,7 @@
   {
     "name": "Terrakion",
     "number": "#639",
-    "image": "./src/imagens/terrakion.gif",
+    "image": "./assets/images/terrakion.gif",
     "types": [
       "rock",
       "fighting"
@@ -1884,7 +1884,7 @@
   {
     "name": "Virizion",
     "number": "#640",
-    "image": "./src/imagens/virizion.gif",
+    "image": "./assets/images/virizion.gif",
     "types": [
       "grass",
       "fighting"
@@ -1898,7 +1898,7 @@
   {
     "name": "Tornadus Incarnate",
     "number": "#641",
-    "image": "./src/imagens/tornadus incarnate.gif",
+    "image": "./assets/images/tornadus incarnate.gif",
     "types": [
       "flying"
     ],
@@ -1910,7 +1910,7 @@
   {
     "name": "Thundurus Incarnate",
     "number": "#642",
-    "image": "./src/imagens/thundurus incarnate.gif",
+    "image": "./assets/images/thundurus incarnate.gif",
     "types": [
       "electric",
       "flying"
@@ -1924,7 +1924,7 @@
   {
     "name": "Reshiram",
     "number": "#643",
-    "image": "./src/imagens/reshiram.gif",
+    "image": "./assets/images/reshiram.gif",
     "types": [
       "dragon",
       "fire"
@@ -1938,7 +1938,7 @@
   {
     "name": "Zekrom",
     "number": "#644",
-    "image": "./src/imagens/zekrom.gif",
+    "image": "./assets/images/zekrom.gif",
     "types": [
       "dragon",
       "electric"
@@ -1952,7 +1952,7 @@
   {
     "name": "Landorus Incarnate",
     "number": "#645",
-    "image": "./src/imagens/landorus incarnate.gif",
+    "image": "./assets/images/landorus incarnate.gif",
     "types": [
       "ground",
       "flying"
@@ -1966,7 +1966,7 @@
   {
     "name": "Kyurem",
     "number": "#646",
-    "image": "./src/imagens/kyurem.gif",
+    "image": "./assets/images/kyurem.gif",
     "types": [
       "dragon",
       "ice"
@@ -1980,7 +1980,7 @@
   {
     "name": "Keldeo Ordinary",
     "number": "#647",
-    "image": "./src/imagens/keldeo ordinary.gif",
+    "image": "./assets/images/keldeo ordinary.gif",
     "types": [
       "water",
       "fighting"
@@ -1994,7 +1994,7 @@
   {
     "name": "Meloetta Aria",
     "number": "#648",
-    "image": "./src/imagens/meloetta aria.gif",
+    "image": "./assets/images/meloetta aria.gif",
     "types": [
       "normal",
       "psychic"
@@ -2008,7 +2008,7 @@
   {
     "name": "Genesect",
     "number": "#649",
-    "image": "./src/imagens/genesect.gif",
+    "image": "./assets/images/genesect.gif",
     "types": [
       "bug",
       "steel"

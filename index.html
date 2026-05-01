@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
     <meta charset="UTF-8">
@@ -9,20 +9,24 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href="./assets/css/variables.css">
+    <link rel="stylesheet" href="./assets/css/base.css">
+    <link rel="stylesheet" href="./assets/css/layout.css">
+    <link rel="stylesheet" href="./assets/css/theme.css">
+    <link rel="stylesheet" href="./assets/css/components.css">
+    <link rel="stylesheet" href="./assets/css/modal.css">
+    <link rel="stylesheet" href="./assets/css/scrollbar.css">
 </head>
-
-<link rel="stylesheet" href="./src/css/reset.css">
-<link rel="stylesheet" href="./src/css/styles.css">
-<link rel="stylesheet" href="./src/css/scrollbar.css">
 
 <body>
     <header>
         <a href="#">
-            <img src="./src/imagens/pokeball.png" alt="pokebola" class="logo">
+            <img src="./assets/images/pokeball.png" alt="pokebola" class="logo">
         </a>
 
-        <button id="button-alter-theme">
-            <img src="./src/imagens/sun.png" alt="sol" class="button-image">
+        <button id="button-alter-theme" aria-label="Alternar tema">
+            <img src="./assets/images/sun.png" alt="sol" class="button-image">
         </button>
     </header>
     <main>
@@ -99,71 +103,21 @@
             </div>
         </section>
 
-        <section class="generation-section" id="generation-1">
-            <h2 class="generation-title">Geração I - Kanto</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons serão carregados dinamicamente via JavaScript -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-2">
-            <h2 class="generation-title">Geração II - Johto</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração II serão adicionados aqui -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-3">
-            <h2 class="generation-title">Geração III - Hoenn</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração III serão adicionados aqui -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-4">
-            <h2 class="generation-title">Geração IV - Sinnoh</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração IV serão adicionados aqui -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-5">
-            <h2 class="generation-title">Geração V - Unova</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração V serão adicionados aqui -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-6">
-            <h2 class="generation-title">Geração VI - Kalos</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração VI serão adicionados aqui -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-7">
-            <h2 class="generation-title">Geração VII - Alola</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração VII serão adicionados aqui -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-8">
-            <h2 class="generation-title">Geração VIII - Galar</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração VIII serão adicionados aqui -->
-            </ul>
-        </section>
-
-        <section class="generation-section" id="generation-9">
-            <h2 class="generation-title">Geração IX - Paldea</h2>
-            <ul class="list-pokemon">
-                <!-- Pokemons da Geração IX serão adicionados aqui -->
-            </ul>
-        </section>
+        <div id="generation-root"></div>
     </main>
 
-    <script src="./src/js/index.js"></script>
+    <!-- Modal para Cartas TCG Pokémon -->
+    <div id="tcg-modal" class="modal-overlay" aria-hidden="true">
+        <div class="modal-content" role="dialog" aria-modal="true">
+            <button id="close-modal" class="close-button" aria-label="Fechar modal">&times;</button>
+            <div class="card-container">
+                <img id="tcg-card-image" src="" alt="Pokémon TCG Card" class="tcg-card">
+                <div id="loading-spinner" class="loading-spinner">Carregando...</div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="./assets/js/app.js"></script>
 </body>
 
 </html>
