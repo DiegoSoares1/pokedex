@@ -1,89 +1,85 @@
 # Pokédex
 
-Pokédex is a static vanilla HTML/CSS/JavaScript project that displays Pokémon from all 9 generations using local JSON data. The site includes search, filter, expand/collapse UI controls, a dark mode toggle, and a modal that shows Pokémon TCG cards fetched from the official Pokémon TCG API.
+Uma aplicação web estática desenvolvida com HTML, CSS e JavaScript puro, que exibe Pokémon de todas as 9 gerações utilizando dados JSON locais. O site inclui funcionalidades de busca, filtros, controles de expansão/recolhimento de seções, alternância entre temas claro e escuro, e um modal para exibir cartas do Pokémon TCG obtidas via API oficial.
 
-## Key Features
+## Demonstração
 
-- Full Pokédex listing for 9 generations
-- Search by name or number
-- Filter by Pokémon type and generation
-- Expand/collapse generation sections
-- Light/dark theme toggle
-- Pokémon TCG card modal with persistent localStorage caching
-- Modular front-end structure for easier maintenance
+Acesse a versão ao vivo do projeto hospedada no GitHub Pages: [Pokédex Demo](https://seu-usuario.github.io/pokedex)
 
-## Project Structure
+*(Opcional: Insira aqui uma imagem ou GIF demonstrando o projeto em ação)*
 
-- `index.html` — main static page
-- `assets/css/` — split CSS modules:
-  - `reset.css`
-  - `variables.css`
-  - `base.css`
-  - `layout.css`
-  - `theme.css`
-  - `components.css`
-  - `modal.css`
-  - `scrollbar.css`
-- `assets/js/` — modular JavaScript:
-  - `app.js` — main application logic
-  - `components/` — UI card component
-  - `services/` — data loading and TCG API caching
-  - `utils/` — helper utilities
-- `data/` — local generation JSON files used by the app
-- `tools/translation/` — translation and generation scripts moved out of the root
+## Funcionalidades
 
-## Local Development
+- 📋 Listagem completa de Pokémon das 9 gerações
+- 🔍 Busca por nome ou número do Pokémon
+- 🏷️ Filtros por tipo de Pokémon e geração
+- 📂 Expansão/recolhimento das seções de gerações
+- 🌙 Alternância entre temas claro e escuro
+- 🎴 Modal de cartas do Pokémon TCG com cache persistente no localStorage
+- 🧩 Estrutura modular do front-end para facilitar a manutenção
 
-This is a static site and works best when served by a local web server.
+## Tecnologias Utilizadas
 
-### Using Python 3
+- **HTML5**: Estrutura da página
+- **CSS3**: Estilização e temas
+- **JavaScript (ES6+)**: Lógica da aplicação e interatividade
+- **Pokémon TCG API**: Para buscar e exibir cartas de TCG
 
-1. Open a command prompt in the project root:
-   ```powershell
-   cd c:\Users\T-GAMER\Documents\pokedex
-   python -m http.server 8000
+## Como Rodar o Projeto Localmente
+
+### Pré-requisitos
+- Navegador web moderno
+- Servidor local (recomendado para melhor experiência)
+
+### Passos
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/pokedex.git
    ```
-2. Open your browser at `http://localhost:8000`
 
-### Using Node.js http-server
+2. **Navegue até a pasta do projeto**:
+   ```bash
+   cd pokedex
+   ```
 
-If you have Node.js installed:
+3. **Execute um servidor local**:
+   - **Usando Live Server (VS Code)**: Instale a extensão Live Server e clique com o botão direito em `index.html` > "Open with Live Server".
+   - **Usando Python**: Execute `python -m http.server 8000` e acesse `http://localhost:8000`.
+   - **Usando Node.js**: Instale `http-server` globalmente (`npm install -g http-server`) e execute `http-server -p 8000`.
 
-```powershell
-npm install -g http-server
-http-server -p 8000
-```
+4. **Abra no navegador**: Acesse `http://localhost:8000` ou o link fornecido pelo servidor.
 
-Then open `http://localhost:8000`.
+## Estrutura do Projeto
 
-## Deployment
+- `index.html` — Página principal estática
+- `assets/css/` — Módulos CSS organizados:
+  - `reset.css` — Reset de estilos
+  - `variables.css` — Variáveis CSS
+  - `base.css` — Estilos base
+  - `layout.css` — Layout da página
+  - `theme.css` — Temas (claro/escuro)
+  - `components.css` — Componentes da UI
+  - `modal.css` — Estilos do modal
+  - `scrollbar.css` — Personalização da barra de rolagem
+- `assets/js/` — JavaScript modular:
+  - `app.js` — Lógica principal da aplicação
+  - `components/` — Componentes da UI (ex.: cartão de Pokémon)
+  - `services/` — Serviços de carregamento de dados e cache da API TCG
+  - `utils/` — Utilitários auxiliares
+- `data/` — Arquivos JSON locais das gerações
+- `tools/translation/` — Scripts de tradução e geração (separados do front-end)
 
-This project can be deployed as a static site to any web host.
+## Melhorias Futuras
 
-### GitHub Pages
+- ⭐ Sistema de favoritos para Pokémon
+- 📄 Paginação para melhor performance com grandes listas
+- 🔄 Integração com PokéAPI para dados em tempo real
+- 📱 Versão responsiva aprimorada para dispositivos móveis
+- 🎮 Animações e transições mais fluidas
+- 🌐 Suporte a múltiplos idiomas
+- 💾 Cache offline com Service Workers (PWA)
 
-1. Push the repository to GitHub.
-2. In the repository settings, enable **GitHub Pages** using the `main` branch root.
-3. The site will be served from `https://<username>.github.io/<repository>/`.
+## Autor
 
-### Static Hosting
-
-Any static hosting provider works, such as Netlify, Vercel, or Azure Static Web Apps. Point the deployment root to the project folder containing `index.html`.
-
-## Translation Tools
-
-Translation scripts are now organized in `tools/translation/`:
-
-- `force_translate_all.py`
-- `generate_all_generations.py`
-- `translate_descriptions.py`
-- `translate_remaining.py`
-- `translation_output.log`
-
-These scripts are separate from the front-end site and do not affect client-side behavior.
-
-## Notes
-
-- The TCG modal caches card images in localStorage to improve load speed.
-- Generated data is loaded from `data/generation-*.json` files.
-- The site is built with no bundler or build step required.
+Desenvolvido por Diego Soares Santos (https://www.linkedin.com/in/diego-santos-b8643a15b/). Sinta-se à vontade para contribuir ou entrar em contato!
